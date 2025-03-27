@@ -1,6 +1,7 @@
 {
   "name": "youtube-to-markdown",
   "version": "1.0.0",
+  "description": "A system for tracking and analyzing Canadian political party policies by processing videos, news, and web content",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,9 +19,22 @@
     "dev": "nodemon --exec ts-node src/startChat.ts",
     "test:embeddings": "ts-node src/test-embeddings.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "politics",
+    "canada",
+    "youtube",
+    "transcripts",
+    "markdown",
+    "embeddings",
+    "ai",
+    "policy"
+  ],
+  "author": "BuildCanada",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BuildCanada/PolicyExplorer"
+  },
   "devDependencies": {
     "@types/axios": "^0.9.36",
     "@types/cheerio": "^0.22.35",
@@ -46,6 +60,5 @@
     "undici-types": "^6.20.0",
     "v8-compile-cache-lib": "^3.0.1",
     "yn": "^3.1.1"
-  },
-  "description": ""
+  }
 }

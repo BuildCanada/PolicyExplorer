@@ -12,12 +12,15 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 // Set the cutoff date - only process videos published after this date
-// For real-world usage, set a reasonable date in the past (e.g., 2 months ago)
-// This ensures we can actually find videos on YouTube channels
-// const twoMonthsAgo = new Date();
-// twoMonthsAgo.setMonth(twoMonthsAgo.getMonth() - 2);
-// const CUTOFF_DATE = twoMonthsAgo.toISOString().split('T')[0]; // Format: YYYY-MM-DD
-const CUTOFF_DATE = '2025-03-20'; // Hardcoded cutoff date: March 20, 2025
+// For production usage, default to videos from the last 3 months
+const defaultCutoffDate = () => {
+  const threeMonthsAgo = new Date();
+  threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
+  return threeMonthsAgo.toISOString().split('T')[0]; // Format: YYYY-MM-DD
+};
+
+// Allow override via environment variable
+const CUTOFF_DATE = process.env.VIDEO_CUTOFF_DATE || defaultCutoffDate();
 
 console.log(`Using cutoff date: ${CUTOFF_DATE} (will only process videos published after this date)`);
 
@@ -25,7 +28,7 @@ console.log(`Using cutoff date: ${CUTOFF_DATE} (will only process videos publish
 const useLatestOnly = process.argv.includes('--latest');
 
 // Parse max videos parameter (--max=N)
-let maxVideos = 100; // Increased default to 100 videos to process more by default
+let maxVideos = 100; // Default to 100 videos to process
 const maxArg = process.argv.find(arg => arg.startsWith('--max='));
 if (maxArg) {
   const maxValue = parseInt(maxArg.split('=')[1], 10);
@@ -54,10 +57,14 @@ interface VideoMetadata {
   upload_date: string; // YYYYMMDD format from yt-dlp
   webpage_url: string;
   description?: string; // Optional description
-  language?: string;  // Add language field
+  language?: string;  // Language field
 }
 
-// Function to fetch metadata using yt-dlp
+/**
+ * Fetches metadata for a YouTube video using yt-dlp
+ * @param youtubeUrl The full URL of the YouTube video
+ * @returns VideoMetadata object or null if unable to retrieve
+ */
 async function getVideoMetadata(youtubeUrl: string): Promise<VideoMetadata | null> {
   console.log(`Fetching metadata for: ${youtubeUrl}`);
   try {
@@ -87,7 +94,11 @@ async function getVideoMetadata(youtubeUrl: string): Promise<VideoMetadata | nul
   }
 }
 
-// Function to fetch transcript using youtube-transcript
+/**
+ * Fetches transcript for a YouTube video
+ * @param youtubeUrl The full URL of the YouTube video
+ * @returns Transcript text or null if unavailable
+ */
 async function getTranscript(youtubeUrl: string): Promise<string | null> {
   console.log(`Fetching transcript for: ${youtubeUrl}`);
   try {
@@ -118,7 +129,11 @@ async function getTranscript(youtubeUrl: string): Promise<string | null> {
   }
 }
 
-// Function to format date YYYYMMDD to YYYY-MM-DD
+/**
+ * Formats a date string from YYYYMMDD to YYYY-MM-DD format
+ * @param dateString Date in YYYYMMDD format
+ * @returns Formatted date string
+ */
 function formatDate(dateString: string): string {
     if (dateString && dateString.length === 8) {
         return `${dateString.substring(0, 4)}-${dateString.substring(4, 6)}-${dateString.substring(6, 8)}`;
@@ -126,20 +141,31 @@ function formatDate(dateString: string): string {
     return dateString; // Return original if format is unexpected
 }
 
-// Function to check if a video is after the cutoff date
+/**
+ * Checks if a date is after the cutoff date
+ * @param dateString Date in YYYYMMDD format
+ * @returns Boolean indicating if date is after cutoff
+ */
 function isAfterCutoffDate(dateString: string): boolean {
     const formattedDate = formatDate(dateString);
     return formattedDate >= CUTOFF_DATE;
 }
 
-// Function to sanitize filenames (basic example)
+/**
+ * Sanitizes a filename to ensure it's valid for the filesystem
+ * @param name The raw filename
+ * @returns Sanitized filename
+ */
 function sanitizeFilename(name: string): string {
     return name.replace(/[^a-z0-9_\-\.]/gi, '_').substring(0, 100); // Keep it reasonably short
 }
 
-// Function to map candidate to party
+/**
+ * Maps a candidate name to a political party ID
+ * @param candidate The candidate name
+ * @returns Promise resolving to party ID or undefined
+ */
 async function getPartyIdForCandidate(candidate: string): Promise<number | undefined> {
-  // This is a simplistic mapping - you might want to make this more robust
   if (candidate === 'Mark Carney') {
     const party = await partyRepo.getPartyByName('Liberal Party of Canada');
     return party?.id;

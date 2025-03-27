@@ -2,7 +2,7 @@ import { Database } from 'sqlite';
 import { getDb } from '../database/schema';
 import { bufferToEmbedding, generateEmbeddings } from './embeddingService';
 
-interface SearchResult {
+export interface SearchResult {
   chunk_id: number;
   content_id: number;
   chunk_text: string;

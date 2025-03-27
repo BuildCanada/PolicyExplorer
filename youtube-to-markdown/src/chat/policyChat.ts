@@ -1,5 +1,5 @@
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold, Part } from '@google/generative-ai';
-import { VectorSearchService } from '../services/vectorSearchService';
+import { VectorSearchService, SearchResult } from '../services/vectorSearchService';
 import dotenv from 'dotenv';
 import { PartyRepository } from '../database/repository';
 import * as readline from 'readline';
@@ -23,7 +23,7 @@ interface ChatOptions {
 
 class PolicyChatbot {
   private model = googleAI.getGenerativeModel({ 
-    model: 'gemini-1.5-pro',
+    model: 'gemini-2.0-flash',
     safetySettings: [
       {
         category: HarmCategory.HARM_CATEGORY_HATE_SPEECH,
@@ -92,10 +92,19 @@ class PolicyChatbot {
     
     // Search for relevant content
     const searchResults = await vectorSearch.search(query, {
-      limit: options.limit || 15,
-      minSimilarity: options.minSimilarity || 0.7,
+      limit: options.limit || 20,
+      minSimilarity: options.minSimilarity || 0.65,
       partyIds: partyIds.length > 0 ? partyIds : undefined
     });
+    
+    // Debug logging
+    console.log(`Found ${searchResults.length} relevant results for query: "${query}"`);
+    if (searchResults.length > 0) {
+      console.log('Top 3 results:');
+      searchResults.slice(0, 3).forEach((result, i) => {
+        console.log(`${i+1}. ${result.title} (similarity: ${result.similarity.toFixed(3)})`);
+      });
+    }
     
     if (searchResults.length === 0) {
       return "No relevant policy information found for this query.";
@@ -110,13 +119,29 @@ class PolicyChatbot {
     for (const [partyName, texts] of Object.entries(groupedResults)) {
       context += `## ${partyName} Position\n`;
       
-      texts.forEach((text, index) => {
+      // Group results by source
+      const sourceGroups: Record<string, Array<{text: string, result: SearchResult}>> = {};
+      
+      texts.forEach(text => {
         const result = searchResults.find(r => r.party_name === partyName && r.chunk_text === text);
         if (result) {
-          context += `Source: "${result.title}" (${result.url})\n`;
-          context += `${text}\n\n`;
+          const sourceKey = `${result.title} (${result.url})`;
+          if (!sourceGroups[sourceKey]) {
+            sourceGroups[sourceKey] = [];
+          }
+          sourceGroups[sourceKey].push({text, result});
         }
       });
+      
+      // Output grouped by source
+      for (const [source, items] of Object.entries(sourceGroups)) {
+        context += `Source: "${source}"\n`;
+        items.forEach(({text}) => {
+          context += `- ${text.replace(/\n/g, '\n  ')}\n\n`;
+        });
+      }
+      
+      context += '\n';
     }
     
     return context;
@@ -131,10 +156,12 @@ class PolicyChatbot {
       const policyInfo = await this.getRelevantPolicies(question, options);
       
       // Construct the prompt
-      let prompt = `Based on the following information, please answer this question: "${question}"\n\n${policyInfo}\n\n`;
+      let prompt = `Based on the following information from official party sources, please answer this question: "${question}"\n\n${policyInfo}\n\n`;
       
       if (options.compareParties) {
-        prompt += "Please compare the positions of different parties on this issue. If a party's position is not mentioned in the provided information, clearly state that.";
+        prompt += "Please compare the positions of different parties on this issue in a structured way, highlighting agreements and disagreements. If a party's position is not mentioned in the provided information, clearly state that.";
+      } else {
+        prompt += "Please provide a detailed response that summarizes the positions accurately. If the information is incomplete or doesn't fully address the question, clearly acknowledge this limitation.";
       }
       
       // Get response from LLM

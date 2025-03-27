@@ -6,18 +6,21 @@ This system tracks and analyzes policies from Canada's two major political parti
 
 - YouTube video processing with transcript extraction
   - Automatic fetching of recent videos from official channels
+- News article scraping from party websites
 - Web page scraping for party platforms and policies
 - Text chunking and embedding generation using Gemini or OpenAI (configurable)
 - Vector search to find relevant content for questions
 - Chat interface powered by Gemini LLM to answer policy questions
 - Party position comparison functionality
+- Markdown export of processed content for easy reading
 
 ## Requirements
 
-- Node.js (v14+)
+- Node.js (v16+)
 - npm
-- Python 3.6+ (for yt-dlp)
+- Python 3.8+ (for yt-dlp and Datasette)
 - yt-dlp (for YouTube video processing)
+- Datasette (optional, for database visualization)
 
 ## Installation
 
@@ -39,8 +42,22 @@ This system tracks and analyzes policies from Canada's two major political parti
    ```
 4. Set up your API keys in the `.env` file:
    ```
+   # API Keys
    GEMINI_API_KEY=your-gemini-api-key
    OPENAI_API_KEY=your-openai-api-key (optional)
+   SERPER_API_KEY=your-serper-api-key (for web search, optional)
+   groq_api_key=your-groq-api-key (optional)
+   
+   # Database Settings
+   DB_PATH=./data/policy_data.db
+   
+   # Embedding Settings
+   EMBEDDING_MODEL=gemini
+   CHUNK_SIZE=1000
+   CHUNK_OVERLAP=200
+   
+   # Optional: Set a custom video cutoff date
+   # VIDEO_CUTOFF_DATE=2025-03-20
    ```
 
 ## Usage
@@ -48,43 +65,69 @@ This system tracks and analyzes policies from Canada's two major political parti
 ### Configure Content Sources
 
 1. YouTube videos:
-   - The system can automatically fetch recent videos from the official channels:
+   - The system automatically fetches recent videos from the official channels:
      - Liberal Party: Mark Carney's channel (https://www.youtube.com/@MarkJCarney)
      - Conservative Party: Pierre Poilievre's channel (https://www.youtube.com/@PierrePoilievre)
-   - By default, it fetches videos uploaded since March 20, 2025
-   - Alternatively, you can edit `src/videoList.ts` to add specific YouTube videos you want to process
-   - Each video should include a URL and a candidate/party association
+   - By default, it fetches videos uploaded within the last 3 months
+   - You can override this by setting the `VIDEO_CUTOFF_DATE` environment variable
+   - Add specific videos by editing `src/VideoList.ts`
 
-2. Web pages:
+2. News articles:
+   - The system automatically scrapes news from:
+     - Liberal Party website: https://liberal.ca/category/media-releases/
+     - Conservative Party website: https://www.conservative.ca/news/
+
+3. Web pages:
    - Edit `src/webpageList.ts` to add the web pages you want to scrape
    - Each entry should include a URL, party ID, and optional CSS selector
 
 ### Process Content
 
-1. Process YouTube videos:
+1. Reset the database (keeps party reference data):
+   ```
+   npm run reset:db
+   ```
+
+2. Process YouTube videos:
    ```
    npm run process:videos
    ```
-
-2. Process only latest videos from official channels:
-   ```
-   npm run process:latest
-   ```
    
-   You can also limit the number of videos:
+   Limit the number of videos:
    ```
-   npm run process:latest -- --max=10
+   npm run process:videos -- --max=10
    ```
 
-3. Process web pages:
+3. Process news articles:
+   ```
+   npm run process:news
+   ```
+
+4. Process web pages:
    ```
    npm run process:webpages
    ```
 
-4. Process both:
+5. Process all content types:
    ```
    npm run process:all
    ```
+
+### Exploring the Database
+
+For easy exploration of the database, install Datasette:
+
+```
+pip install datasette
+```
+
+Then run:
+
+```
+datasette data/policy_data.db
+```
+
+This provides a web interface to query and explore the data at http://localhost:8001.
 
 ### Start the Chat Interface
 
@@ -105,38 +148,51 @@ This will start an interactive command-line chat interface where you can ask que
 
 ### Embedding Models
 
-This project uses Google's latest experimental embedding model `gemini-embedding-exp-03-07`, which provides 3072-dimensional embeddings. You can configure the embedding settings in the `.env` file:
+The project supports multiple embedding models:
 
 ```
-EMBEDDING_MODEL=gemini  # Uses gemini-embedding-exp-03-07
-CHUNK_SIZE=1000
-CHUNK_OVERLAP=200
+EMBEDDING_MODEL=gemini  # Uses text-embedding-004 (default)
+EMBEDDING_MODEL=openai  # Uses OpenAI embeddings (requires OPENAI_API_KEY)
 ```
 
-For detailed information about our embedding implementation, see [docs/embedding-models.md](docs/embedding-models.md).
+You can configure the text chunking settings:
 
-### Adding New Content Types
-
-To add a new content source:
-
-1. Create a new scraper in the `src/scrapers` directory
-2. Update the database schema if needed
-3. Create a new processor script that uses the scraper
-
-### Dynamic Video Fetching
-
-The system automatically fetches recent videos from the official YouTube channels of Mark Carney (Liberal) and Pierre Poilievre (Conservative). You can customize this behavior by modifying the following in `src/videoList.ts`:
-
-```typescript
-// Change the target date (format: YYYYMMDD)
-const targetDate = '20250320';
-
-// Modify the maximum number of videos to fetch per channel
-const maxVideos = 10;
+```
+CHUNK_SIZE=1000   # Characters per chunk
+CHUNK_OVERLAP=200 # Overlap between chunks
 ```
 
-This ensures your policy analysis stays up-to-date with the latest campaign messages without manual intervention.
+### Development Scripts
+
+The repository includes several helpful scripts for development:
+
+- `npm run build` - Compile TypeScript to JavaScript
+- `npm run dev` - Run the chat interface with nodemon for auto-reload
+- `npm run test:embeddings` - Test embedding functionality
+- `npm run migrate:db` - Run database migrations
+
+## Project Structure
+
+- `src/` - TypeScript source code
+  - `database/` - Database models and repository
+  - `scrapers/` - Web and news scrapers
+  - `services/` - Embedding and chat services
+  - `utils/` - Utility functions
+- `data/` - Database and processed data
+- `markdown/` - Exported markdown files
+- `docs/` - Documentation
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request.
 
 ## License
 
 MIT 
+
+export const embeddingConfig = {
+  model: EMBEDDING_MODEL === 'gemini' ? 'text-embedding-004' : EMBEDDING_MODEL,
+  provider: EMBEDDING_MODEL as EmbeddingModelType,
+  chunkSize: CHUNK_SIZE,
+  chunkOverlap: CHUNK_OVERLAP
+}; 
