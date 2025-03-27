@@ -1,0 +1,2371 @@
+{
+  "status": "success",
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "pin_tweet": {
+      "type": "tweet",
+      "id": "1898878068313260241",
+      "url": "https://x.com/MarkJCarney/status/1898878068313260241",
+      "twitterUrl": "https://twitter.com/MarkJCarney/status/1898878068313260241",
+      "text": "Thank you.\n\nWe're strongest when we are united. https://t.co/H9RPrJNf4Y",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2612,
+      "replyCount": 7775,
+      "likeCount": 26407,
+      "quoteCount": 416,
+      "viewCount": 1734991,
+      "createdAt": "Sun Mar 09 23:26:25 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 322,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1898878068313260241",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "MarkJCarney",
+        "url": "https://x.com/MarkJCarney",
+        "twitterUrl": "https://twitter.com/MarkJCarney",
+        "id": "192272849",
+        "name": "Mark Carney",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+        "description": "",
+        "location": "Ottawa, Canada",
+        "followers": 331545,
+        "following": 674,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 564,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 616,
+        "statusesCount": 1530,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1898878068313260241"
+        ],
+        "profile_bio": {
+          "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "markcarney.ca",
+                  "expanded_url": "http://markcarney.ca",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/wN083ppBrC"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/H9RPrJNf4Y",
+            "expanded_url": "https://twitter.com/MarkJCarney/status/1898878068313260241/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1898877187937234944",
+            "indices": [
+              48,
+              71
+            ],
+            "media_key": "3_1898877187937234944",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpaKr3jF3AACgACGlorit2XgNEAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGloqveMXcAAKAAIaWiuK3ZeA0QAA",
+                "media_key": "3_1898877187937234944"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GloqveMXcAAg1Go.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1360,
+                  "w": 2428,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 1618,
+                  "x": 810,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 1419,
+                  "x": 1009,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 809,
+                  "x": 1599,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 2428,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1618,
+              "width": 2428
+            },
+            "sizes": {
+              "large": {
+                "h": 1365,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/H9RPrJNf4Y"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    "tweets": [
+      {
+        "type": "tweet",
+        "id": "1768596493567406506",
+        "url": "https://x.com/MarkJCarney/status/1768596493567406506",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1768596493567406506",
+        "text": "Congratulations @KganyagoLesetja. Your energy and expertise have already led #SouthAfrica and the G20 through many challenges, and your continued dedication to public service is enormously welcome at this critical time for the global economy.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 15,
+        "replyCount": 23,
+        "likeCount": 32,
+        "quoteCount": 0,
+        "viewCount": 13819,
+        "createdAt": "Fri Mar 15 11:13:57 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 2,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1768596493567406506",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                77,
+                89
+              ],
+              "text": "SouthAfrica"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "2337789231",
+              "indices": [
+                16,
+                32
+              ],
+              "name": "Lesetja Kganyago",
+              "screen_name": "KganyagoLesetja"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1768592972264690172",
+          "url": "https://x.com/business/status/1768592972264690172",
+          "twitterUrl": "https://twitter.com/business/status/1768592972264690172",
+          "text": "South African President Cyril Ramaphosa reappointed Lesetja Kganyago as governor of the country’s central bank for another five-year term https://t.co/RvPZTRTvVj",
+          "source": "Twitter for iPhone",
+          "retweetCount": 1,
+          "replyCount": 2,
+          "likeCount": 3,
+          "quoteCount": 1,
+          "viewCount": 31785,
+          "createdAt": "Fri Mar 15 10:59:58 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1768592972264690172",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "business",
+            "url": "https://x.com/business",
+            "twitterUrl": "https://twitter.com/business",
+            "id": "34713362",
+            "name": "Bloomberg",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+            "coverPicture": "",
+            "description": "",
+            "location": "New York and the World",
+            "followers": 9662898,
+            "following": 94,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Thu Apr 23 20:05:17 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 4356,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 317871,
+            "statusesCount": 1150761,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "bloom.bg/singapore",
+                      "expanded_url": "https://bloom.bg/singapore",
+                      "indices": [
+                        55,
+                        78
+                      ],
+                      "url": "https://t.co/RtyaUOdLdF"
+                    },
+                    {
+                      "display_url": "bloom.bg/newsletters",
+                      "expanded_url": "http://bloom.bg/newsletters",
+                      "indices": [
+                        92,
+                        115
+                      ],
+                      "url": "https://t.co/nWaCxHSKuU"
+                    },
+                    {
+                      "display_url": "bloom.bg/podcasts",
+                      "expanded_url": "http://bloom.bg/podcasts",
+                      "indices": [
+                        126,
+                        149
+                      ],
+                      "url": "https://t.co/096e9xMbPz"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "bloomberg.com/account/newsle…",
+                      "expanded_url": "https://www.bloomberg.com/account/newsletters/election-2024-alerts",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/dNUoYUqPrC"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {
+            "urls": [
+              {
+                "display_url": "trib.al/wDedB07",
+                "expanded_url": "https://trib.al/wDedB07",
+                "indices": [
+                  138,
+                  161
+                ],
+                "url": "https://t.co/RvPZTRTvVj"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1768368469911732364",
+        "url": "https://x.com/MarkJCarney/status/1768368469911732364",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1768368469911732364",
+        "text": "RT @Canada2020: Everyone should be able to count on affordable homes and a stable climate – and that is achievable.\n\nRead @Canada2020 Advis…",
+        "source": "Twitter for iPhone",
+        "retweetCount": 28,
+        "replyCount": 10,
+        "likeCount": 58,
+        "quoteCount": 4,
+        "viewCount": 9901,
+        "createdAt": "Thu Mar 14 20:07:52 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1768368469911732364",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "42457110",
+              "indices": [
+                3,
+                14
+              ],
+              "name": "Canada 2020",
+              "screen_name": "Canada2020"
+            },
+            {
+              "id_str": "42457110",
+              "indices": [
+                122,
+                133
+              ],
+              "name": "Canada 2020",
+              "screen_name": "Canada2020"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1768364785857335318",
+          "url": "https://x.com/Canada2020/status/1768364785857335318",
+          "twitterUrl": "https://twitter.com/Canada2020/status/1768364785857335318",
+          "text": "Everyone should be able to count on affordable homes and a stable climate – and that is achievable.\n\nRead @Canada2020 Advisory Board Chair @MarkJCarney's op-ed in today's @GlobeandMail: https://t.co/6A4fgqbXTe https://t.co/SOQQmqZg9X",
+          "source": "Twitter for iPhone",
+          "retweetCount": 28,
+          "replyCount": 10,
+          "likeCount": 58,
+          "quoteCount": 4,
+          "viewCount": 9901,
+          "createdAt": "Thu Mar 14 19:53:14 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1768364785857335318",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "Canada2020",
+            "url": "https://x.com/Canada2020",
+            "twitterUrl": "https://twitter.com/Canada2020",
+            "id": "42457110",
+            "name": "Canada 2020",
+            "isVerified": false,
+            "isBlueVerified": false,
+            "profilePicture": "https://pbs.twimg.com/profile_images/863046611785715712/BnggVQsE_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/42457110/1571856170",
+            "description": "",
+            "location": "Ottawa, ON",
+            "followers": 15547,
+            "following": 2074,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Mon May 25 18:23:08 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 3357,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 1692,
+            "statusesCount": 8884,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1859316219024662732"
+            ],
+            "profile_bio": {
+              "description": "Canada's leading, independent, progressive think-tank. Events, research and big ideas about public policy. Follow @2020Network for our podcasts.",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        114,
+                        126
+                      ],
+                      "name": "",
+                      "screen_name": "2020Network"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "canada2020.ca",
+                      "expanded_url": "https://canada2020.ca/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jFrUT5PmEZ"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/SOQQmqZg9X",
+                "expanded_url": "https://twitter.com/Canada2020/status/1768364785857335318/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 151,
+                        "w": 151,
+                        "x": 284,
+                        "y": 253
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 151,
+                        "w": 151,
+                        "x": 284,
+                        "y": 253
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1768363674756915201",
+                "indices": [
+                  210,
+                  233
+                ],
+                "media_key": "3_1768363674756915201",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARiKfWSblyABCgACGIp+Z05WEBYAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGIp9ZJuXIAEKAAIYin5nTlYQFgAA",
+                    "media_key": "3_1768363674756915201"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GIp9ZJuXIAEJolH.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 896,
+                      "w": 1600,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 900,
+                      "w": 900,
+                      "x": 230,
+                      "y": 0
+                    },
+                    {
+                      "h": 900,
+                      "w": 789,
+                      "x": 286,
+                      "y": 0
+                    },
+                    {
+                      "h": 900,
+                      "w": 450,
+                      "x": 455,
+                      "y": 0
+                    },
+                    {
+                      "h": 900,
+                      "w": 1600,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 900,
+                  "width": 1600
+                },
+                "sizes": {
+                  "large": {
+                    "h": 900,
+                    "w": 1600
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/SOQQmqZg9X"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "urls": [
+              {
+                "display_url": "theglobeandmail.com/opinion/articl…",
+                "expanded_url": "https://www.theglobeandmail.com/opinion/article-we-all-deserve-affordable-homes-and-a-stable-climate-and-that-is/",
+                "indices": [
+                  186,
+                  209
+                ],
+                "url": "https://t.co/6A4fgqbXTe"
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "42457110",
+                "indices": [
+                  106,
+                  117
+                ],
+                "name": "Canada 2020",
+                "screen_name": "Canada2020"
+              },
+              {
+                "id_str": "192272849",
+                "indices": [
+                  139,
+                  151
+                ],
+                "name": "Mark Carney",
+                "screen_name": "MarkJCarney"
+              },
+              {
+                "id_str": "8736882",
+                "indices": [
+                  171,
+                  184
+                ],
+                "name": "The Globe and Mail",
+                "screen_name": "globeandmail"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "1768330289313419766",
+        "url": "https://x.com/MarkJCarney/status/1768330289313419766",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1768330289313419766",
+        "text": "Climate change and housing affordability aren’t just solvable problems; they have common solutions. Politicians at every level of government should take note and take action.\n\nMy op-ed in today’s @GlobeandMail:\n\nhttps://t.co/2Egoo4gZJJ",
+        "source": "Twitter for iPhone",
+        "retweetCount": 91,
+        "replyCount": 363,
+        "likeCount": 228,
+        "quoteCount": 46,
+        "viewCount": 43044,
+        "createdAt": "Thu Mar 14 17:36:09 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 14,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1768330289313419766",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 293,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=600x314",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=280x150",
+                  "width": 225
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "If our effort to build millions of additional housing units ignores the climate consequences, we won’t truly achieve affordability"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "www.theglobeandmail.com"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=800x320_1",
+                  "width": 480
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 373,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=orig",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribe_key": "publisher_id",
+                "user_value": {
+                  "id_str": "8736882"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 293,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=600x314",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 67,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=100x100",
+                  "width": 100
+                }
+              }
+            },
+            {
+              "key": "creator",
+              "value": {
+                "user_value": {
+                  "id_str": "8736882"
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 373,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=png&name=2048x2048_2_exp",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 373,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=orig",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "theglobeandmail.com"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 293,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=600x314",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 40.05,
+                      "rgb": {
+                        "blue": 106,
+                        "green": 155,
+                        "red": 179
+                      }
+                    },
+                    {
+                      "percentage": 30.63,
+                      "rgb": {
+                        "blue": 199,
+                        "green": 169,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 12.33,
+                      "rgb": {
+                        "blue": 169,
+                        "green": 182,
+                        "red": 173
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 88,
+                        "green": 150,
+                        "red": 183
+                      }
+                    },
+                    {
+                      "percentage": 5.66,
+                      "rgb": {
+                        "blue": 44,
+                        "green": 53,
+                        "red": 48
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "Opinion: We all deserve affordable homes and a stable climate – and that is achievable"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 40.05,
+                      "rgb": {
+                        "blue": 106,
+                        "green": 155,
+                        "red": 179
+                      }
+                    },
+                    {
+                      "percentage": 30.63,
+                      "rgb": {
+                        "blue": 199,
+                        "green": 169,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 12.33,
+                      "rgb": {
+                        "blue": 169,
+                        "green": 182,
+                        "red": 173
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 88,
+                        "green": 150,
+                        "red": 183
+                      }
+                    },
+                    {
+                      "percentage": 5.66,
+                      "rgb": {
+                        "blue": 44,
+                        "green": 53,
+                        "red": 48
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 373,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=png&name=2048x2048_2_exp",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 293,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=600x314",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 40.05,
+                      "rgb": {
+                        "blue": 106,
+                        "green": 155,
+                        "red": 179
+                      }
+                    },
+                    {
+                      "percentage": 30.63,
+                      "rgb": {
+                        "blue": 199,
+                        "green": 169,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 12.33,
+                      "rgb": {
+                        "blue": 169,
+                        "green": 182,
+                        "red": 173
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 88,
+                        "green": 150,
+                        "red": 183
+                      }
+                    },
+                    {
+                      "percentage": 5.66,
+                      "rgb": {
+                        "blue": 44,
+                        "green": 53,
+                        "red": 48
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 373,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=png&name=2048x2048_2_exp",
+                  "width": 560
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/2Egoo4gZJJ"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "alt": "",
+                  "height": 373,
+                  "url": "https://pbs.twimg.com/card_img/1903462848212176897/Fwanww6P?format=jpg&name=orig",
+                  "width": 560
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/2Egoo4gZJJ",
+          "user_refs_results": [
+            {
+              "rest_id": "8736882",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 2573
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/8736882/1691766345"
+                },
+                "core": {
+                  "created_at": "Sat Sep 08 00:46:45 +0000 2007",
+                  "name": "The Globe and Mail",
+                  "screen_name": "globeandmail"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "exclusive_tweet_following": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "Canada"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "notifications_settings": {},
+                "pinned_items": {
+                  "tweet_ids_str": [
+                    "1679940074786414596"
+                  ]
+                },
+                "privacy": {},
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "Canada's national news organization. Customer care: @GlobeHelp. Share info with us anonymously: https://t.co/ROPEUBZwoO",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "tgam.ca/secure-drop",
+                          "expanded_url": "http://tgam.ca/secure-drop",
+                          "indices": [
+                            96,
+                            119
+                          ],
+                          "url": "https://t.co/ROPEUBZwoO"
+                        }
+                      ],
+                      "user_mentions": [
+                        {
+                          "id_str": "0",
+                          "indices": [
+                            52,
+                            62
+                          ],
+                          "name": "",
+                          "screen_name": "GlobeHelp"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "globeandmail.com",
+                          "expanded_url": "http://www.globeandmail.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/et2oIjDfo5"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_image_shape": "Square",
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "001F5F"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": true
+                },
+                "relationship_counts": {
+                  "followers": 2020493,
+                  "following": 1022
+                },
+                "relationship_perspectives": {},
+                "rest_id": "8736882",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 166830,
+                  "tweets": 699305
+                },
+                "website": {
+                  "url": "https://t.co/et2oIjDfo5"
+                },
+                "verification": {
+                  "is_blue_verified": true,
+                  "verified_type": "Business"
+                }
+              }
+            },
+            {
+              "rest_id": "8736882",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 2573
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/8736882/1691766345"
+                },
+                "core": {
+                  "created_at": "Sat Sep 08 00:46:45 +0000 2007",
+                  "name": "The Globe and Mail",
+                  "screen_name": "globeandmail"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "exclusive_tweet_following": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "Canada"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "notifications_settings": {},
+                "pinned_items": {
+                  "tweet_ids_str": [
+                    "1679940074786414596"
+                  ]
+                },
+                "privacy": {},
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "Canada's national news organization. Customer care: @GlobeHelp. Share info with us anonymously: https://t.co/ROPEUBZwoO",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "tgam.ca/secure-drop",
+                          "expanded_url": "http://tgam.ca/secure-drop",
+                          "indices": [
+                            96,
+                            119
+                          ],
+                          "url": "https://t.co/ROPEUBZwoO"
+                        }
+                      ],
+                      "user_mentions": [
+                        {
+                          "id_str": "0",
+                          "indices": [
+                            52,
+                            62
+                          ],
+                          "name": "",
+                          "screen_name": "GlobeHelp"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "globeandmail.com",
+                          "expanded_url": "http://www.globeandmail.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/et2oIjDfo5"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_image_shape": "Square",
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "001F5F"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": true
+                },
+                "relationship_counts": {
+                  "followers": 2020493,
+                  "following": 1022
+                },
+                "relationship_perspectives": {},
+                "rest_id": "8736882",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 166830,
+                  "tweets": 699305
+                },
+                "website": {
+                  "url": "https://t.co/et2oIjDfo5"
+                },
+                "verification": {
+                  "is_blue_verified": true,
+                  "verified_type": "Business"
+                }
+              }
+            }
+          ]
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "theglobeandmail.com/opinion/articl…",
+              "expanded_url": "https://www.theglobeandmail.com/opinion/article-we-all-deserve-affordable-homes-and-a-stable-climate-and-that-is/",
+              "indices": [
+                212,
+                235
+              ],
+              "url": "https://t.co/2Egoo4gZJJ"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "8736882",
+              "indices": [
+                196,
+                209
+              ],
+              "name": "The Globe and Mail",
+              "screen_name": "globeandmail"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1766110351244800027",
+        "url": "https://x.com/MarkJCarney/status/1766110351244800027",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1766110351244800027",
+        "text": "This is very welcome. ⁦@KGeorgieva⁩ has been an anchor during a period of great turbulence in the global economy, has catalysed innovative facilities to build resilience in EMDEs, and knows what’s required for strong, sustainable &amp; inclusive growth  https://t.co/Dj0cVVcPfU",
+        "source": "Twitter for iPhone",
+        "retweetCount": 4,
+        "replyCount": 6,
+        "likeCount": 18,
+        "quoteCount": 1,
+        "viewCount": 4664,
+        "createdAt": "Fri Mar 08 14:34:55 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1766110351244800027",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 147,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=280x150",
+                  "width": 280
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "International Monetary Fund chief Kristalina Georgieva said she would be honored to serve a second five-year term at the helm of the global lender, and had been assured there was a strong support for..."
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "www.reuters.com"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=600x600",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 1005,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=orig",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribe_key": "publisher_id",
+                "user_value": {
+                  "id_str": "1652541"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 75,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=144x144",
+                  "width": 144
+                }
+              }
+            },
+            {
+              "key": "creator",
+              "value": {
+                "user_value": {
+                  "id_str": "1652541"
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 1005,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 1005,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=orig",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_alt_text",
+              "value": {
+                "string_value": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "reuters.com"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_alt_text",
+              "value": {
+                "string_value": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 75.42,
+                      "rgb": {
+                        "blue": 2,
+                        "green": 5,
+                        "red": 7
+                      }
+                    },
+                    {
+                      "percentage": 13.69,
+                      "rgb": {
+                        "blue": 84,
+                        "green": 103,
+                        "red": 177
+                      }
+                    },
+                    {
+                      "percentage": 3.03,
+                      "rgb": {
+                        "blue": 93,
+                        "green": 127,
+                        "red": 158
+                      }
+                    },
+                    {
+                      "percentage": 2.36,
+                      "rgb": {
+                        "blue": 76,
+                        "green": 62,
+                        "red": 45
+                      }
+                    },
+                    {
+                      "percentage": 2.04,
+                      "rgb": {
+                        "blue": 39,
+                        "green": 57,
+                        "red": 99
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "IMF's Georgieva says she'd be honored to serve second term if nominated"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 75.42,
+                      "rgb": {
+                        "blue": 2,
+                        "green": 5,
+                        "red": 7
+                      }
+                    },
+                    {
+                      "percentage": 13.69,
+                      "rgb": {
+                        "blue": 84,
+                        "green": 103,
+                        "red": 177
+                      }
+                    },
+                    {
+                      "percentage": 3.03,
+                      "rgb": {
+                        "blue": 93,
+                        "green": 127,
+                        "red": 158
+                      }
+                    },
+                    {
+                      "percentage": 2.36,
+                      "rgb": {
+                        "blue": 76,
+                        "green": 62,
+                        "red": 45
+                      }
+                    },
+                    {
+                      "percentage": 2.04,
+                      "rgb": {
+                        "blue": 39,
+                        "green": 57,
+                        "red": 99
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 1005,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 75.42,
+                      "rgb": {
+                        "blue": 2,
+                        "green": 5,
+                        "red": 7
+                      }
+                    },
+                    {
+                      "percentage": 13.69,
+                      "rgb": {
+                        "blue": 84,
+                        "green": 103,
+                        "red": 177
+                      }
+                    },
+                    {
+                      "percentage": 3.03,
+                      "rgb": {
+                        "blue": 93,
+                        "green": 127,
+                        "red": 158
+                      }
+                    },
+                    {
+                      "percentage": 2.36,
+                      "rgb": {
+                        "blue": 76,
+                        "green": 62,
+                        "red": 45
+                      }
+                    },
+                    {
+                      "percentage": 2.04,
+                      "rgb": {
+                        "blue": 39,
+                        "green": 57,
+                        "red": 99
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 1005,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/Dj0cVVcPfU"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "alt": "IMF Managing Director Kristalina Georgieva speaks during an interview on the day she attends G20 Financial Summit, in Sao Paulo, Brazil, February 27, 2024. REUTERS/Carla Carniel/File Photo",
+                  "height": 1005,
+                  "url": "https://pbs.twimg.com/card_img/1903740639214465024/RoMsbQSY?format=jpg&name=orig",
+                  "width": 1920
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/Dj0cVVcPfU",
+          "user_refs_results": [
+            {
+              "rest_id": "1652541",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 683
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397"
+                },
+                "core": {
+                  "created_at": "Tue Mar 20 17:46:05 +0000 2007",
+                  "name": "Reuters",
+                  "screen_name": "Reuters"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "exclusive_tweet_following": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "Around the world"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "notifications_settings": {},
+                "pinned_items": {},
+                "privacy": {},
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "Top and breaking news, pictures and videos from Reuters. For breaking business news, follow @ReutersBiz. Our daily podcast is here: https://t.co/KO0QFy0d3a",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "rwn.app.link/social",
+                          "expanded_url": "http://rwn.app.link/social",
+                          "indices": [
+                            132,
+                            155
+                          ],
+                          "url": "https://t.co/KO0QFy0d3a"
+                        }
+                      ],
+                      "user_mentions": [
+                        {
+                          "id_str": "0",
+                          "indices": [
+                            92,
+                            103
+                          ],
+                          "name": "",
+                          "screen_name": "ReutersBiz"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "reuters.com",
+                          "expanded_url": "http://www.reuters.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/U9AvHD5r3e"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_image_shape": "Square",
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "006F97"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "Regular"
+                },
+                "properties": {
+                  "has_extended_profile": false
+                },
+                "relationship_counts": {
+                  "followers": 25584928,
+                  "following": 1197
+                },
+                "relationship_perspectives": {},
+                "rest_id": "1652541",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 973067,
+                  "tweets": 1236563
+                },
+                "website": {
+                  "url": "https://t.co/U9AvHD5r3e"
+                },
+                "verification": {
+                  "is_blue_verified": true,
+                  "verified_type": "Business"
+                }
+              }
+            },
+            {
+              "rest_id": "1652541",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 683
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397"
+                },
+                "core": {
+                  "created_at": "Tue Mar 20 17:46:05 +0000 2007",
+                  "name": "Reuters",
+                  "screen_name": "Reuters"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "exclusive_tweet_following": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "Around the world"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "notifications_settings": {},
+                "pinned_items": {},
+                "privacy": {},
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "Top and breaking news, pictures and videos from Reuters. For breaking business news, follow @ReutersBiz. Our daily podcast is here: https://t.co/KO0QFy0d3a",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "rwn.app.link/social",
+                          "expanded_url": "http://rwn.app.link/social",
+                          "indices": [
+                            132,
+                            155
+                          ],
+                          "url": "https://t.co/KO0QFy0d3a"
+                        }
+                      ],
+                      "user_mentions": [
+                        {
+                          "id_str": "0",
+                          "indices": [
+                            92,
+                            103
+                          ],
+                          "name": "",
+                          "screen_name": "ReutersBiz"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "reuters.com",
+                          "expanded_url": "http://www.reuters.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/U9AvHD5r3e"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_image_shape": "Square",
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "006F97"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "Regular"
+                },
+                "properties": {
+                  "has_extended_profile": false
+                },
+                "relationship_counts": {
+                  "followers": 25584928,
+                  "following": 1197
+                },
+                "relationship_perspectives": {},
+                "rest_id": "1652541",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 973067,
+                  "tweets": 1236563
+                },
+                "website": {
+                  "url": "https://t.co/U9AvHD5r3e"
+                },
+                "verification": {
+                  "is_blue_verified": true,
+                  "verified_type": "Business"
+                }
+              }
+            }
+          ]
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "reuters.com/world/imfs-geo…",
+              "expanded_url": "https://www.reuters.com/world/imfs-georgieva-says-shed-be-honored-serve-2nd-term-if-nominated-2024-03-08/",
+              "indices": [
+                254,
+                277
+              ],
+              "url": "https://t.co/Dj0cVVcPfU"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "123109597",
+              "indices": [
+                23,
+                34
+              ],
+              "name": "Kristalina Georgieva",
+              "screen_name": "KGeorgieva"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1765022214858866727",
+        "url": "https://x.com/MarkJCarney/status/1765022214858866727",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1765022214858866727",
+        "text": "Thank you @lraitt @doniveson @MikePMoffatt for your leadership",
+        "source": "Twitter for iPhone",
+        "retweetCount": 19,
+        "replyCount": 3,
+        "likeCount": 84,
+        "quoteCount": 0,
+        "viewCount": 14396,
+        "createdAt": "Tue Mar 05 14:31:03 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 4,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1765022214858866727",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "55687338",
+              "indices": [
+                10,
+                17
+              ],
+              "name": "Hon. Lisa MacCormack Raitt P.C.",
+              "screen_name": "lraitt"
+            },
+            {
+              "id_str": "18261558",
+              "indices": [
+                18,
+                28
+              ],
+              "name": "Don Iveson",
+              "screen_name": "doniveson"
+            },
+            {
+              "id_str": "170774815",
+              "indices": [
+                29,
+                42
+              ],
+              "name": "Dr. Mike P. Moffatt 🇨🇦🏅🏅",
+              "screen_name": "MikePMoffatt"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1765021791473336646",
+        "url": "https://x.com/MarkJCarney/status/1765021791473336646",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1765021791473336646",
+        "text": "This blueprint shows how we can build millions of sustainable homes for Canadians from all walks of life while seizing an enormous economic opportunity through cooperation across government and the drive of the private sector.   It’s Time to Build 🇨🇦",
+        "source": "Twitter for iPhone",
+        "retweetCount": 130,
+        "replyCount": 284,
+        "likeCount": 460,
+        "quoteCount": 24,
+        "viewCount": 91890,
+        "createdAt": "Tue Mar 05 14:29:22 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 30,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1765021791473336646",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      }
+    ]
+  },
+  "has_next_page": true,
+  "next_cursor": "DAABCgABGnBDrGE__GcKAAIYeXZPo9bRkwgAAwAAAAIAAA"
+}

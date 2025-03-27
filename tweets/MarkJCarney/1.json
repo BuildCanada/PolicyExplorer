@@ -1,0 +1,4153 @@
+{
+  "status": "success",
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "pin_tweet": {
+      "type": "tweet",
+      "id": "1898878068313260241",
+      "url": "https://x.com/MarkJCarney/status/1898878068313260241",
+      "twitterUrl": "https://twitter.com/MarkJCarney/status/1898878068313260241",
+      "text": "Thank you.\n\nWe're strongest when we are united. https://t.co/H9RPrJNf4Y",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2612,
+      "replyCount": 7775,
+      "likeCount": 26407,
+      "quoteCount": 416,
+      "viewCount": 1734964,
+      "createdAt": "Sun Mar 09 23:26:25 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 322,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1898878068313260241",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "MarkJCarney",
+        "url": "https://x.com/MarkJCarney",
+        "twitterUrl": "https://twitter.com/MarkJCarney",
+        "id": "192272849",
+        "name": "Mark Carney",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+        "description": "",
+        "location": "Ottawa, Canada",
+        "followers": 331544,
+        "following": 674,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 564,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 616,
+        "statusesCount": 1530,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1898878068313260241"
+        ],
+        "profile_bio": {
+          "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "markcarney.ca",
+                  "expanded_url": "http://markcarney.ca",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/wN083ppBrC"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/H9RPrJNf4Y",
+            "expanded_url": "https://twitter.com/MarkJCarney/status/1898878068313260241/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1898877187937234944",
+            "indices": [
+              48,
+              71
+            ],
+            "media_key": "3_1898877187937234944",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpaKr3jF3AACgACGlorit2XgNEAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGloqveMXcAAKAAIaWiuK3ZeA0QAA",
+                "media_key": "3_1898877187937234944"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GloqveMXcAAg1Go.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1360,
+                  "w": 2428,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 1618,
+                  "x": 810,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 1419,
+                  "x": 1009,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 809,
+                  "x": 1599,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 2428,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1618,
+              "width": 2428
+            },
+            "sizes": {
+              "large": {
+                "h": 1365,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/H9RPrJNf4Y"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    "tweets": [
+      {
+        "type": "tweet",
+        "id": "1905096731735302210",
+        "url": "https://x.com/MarkJCarney/status/1905096731735302210",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1905096731735302210",
+        "text": "President Trump’s tariffs will hurt, but they will not break us. \n\nWe will get through this crisis together, because in Kitchener-Waterloo — and right across the country — we are #CanadaStrong. https://t.co/svXA2Y0mre",
+        "source": "Twitter for iPhone",
+        "retweetCount": 7,
+        "replyCount": 8,
+        "likeCount": 27,
+        "quoteCount": 0,
+        "viewCount": 280,
+        "createdAt": "Thu Mar 27 03:17:10 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1905096731735302210",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/svXA2Y0mre",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1905096731735302210/photo/1",
+              "ext_alt_text": "A crowd of people are gathered at a rally in support of Mark Carney in Kitchener-Waterloo, Ontario.",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Bryan May",
+                      "screen_name": "_BryanMay",
+                      "type": "user",
+                      "user_id": "52080359"
+                    },
+                    {
+                      "name": "Valerie Bradford",
+                      "screen_name": "ValBradfordKSH",
+                      "type": "user",
+                      "user_id": "714340176"
+                    },
+                    {
+                      "name": "Tim Louis",
+                      "screen_name": "TimLouisKitCon",
+                      "type": "user",
+                      "user_id": "2678072299"
+                    },
+                    {
+                      "name": "Bardish Chagger",
+                      "screen_name": "BardishKW",
+                      "type": "user",
+                      "user_id": "2696723713"
+                    },
+                    {
+                      "name": "Colin Walsh",
+                      "screen_name": "CWALSHMATH",
+                      "type": "user",
+                      "user_id": "188417481"
+                    },
+                    {
+                      "name": "Brian Adeba",
+                      "screen_name": "kalamashaka",
+                      "type": "user",
+                      "user_id": "21163164"
+                    },
+                    {
+                      "name": "David Hilderley",
+                      "screen_name": "HilderleyLPC",
+                      "type": "user",
+                      "user_id": "1645996904222715905"
+                    },
+                    {
+                      "name": "Dominique O'Rourke",
+                      "screen_name": "orourke4guelph",
+                      "type": "user",
+                      "user_id": "1731829066477531136"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1114,
+                      "y": 514
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1500,
+                      "y": 558
+                    },
+                    {
+                      "h": 76,
+                      "w": 76,
+                      "x": 1914,
+                      "y": 696
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1114,
+                      "y": 514
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1500,
+                      "y": 558
+                    },
+                    {
+                      "h": 76,
+                      "w": 76,
+                      "x": 1914,
+                      "y": 696
+                    }
+                  ]
+                }
+              },
+              "id_str": "1905096728035930112",
+              "indices": [
+                194,
+                217
+              ],
+              "media_key": "3_1905096728035930112",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpwQ2FpVzAACgACGnBDYkXXIEIAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGnBDYWlXMAAKAAIacENiRdcgQgAA",
+                  "media_key": "3_1905096728035930112"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GnBDYWlXMAAAOtt.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1147,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1366,
+                    "w": 1366,
+                    "x": 289,
+                    "y": 0
+                  },
+                  {
+                    "h": 1366,
+                    "w": 1198,
+                    "x": 373,
+                    "y": 0
+                  },
+                  {
+                    "h": 1366,
+                    "w": 683,
+                    "x": 631,
+                    "y": 0
+                  },
+                  {
+                    "h": 1366,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1366,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 1366,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/svXA2Y0mre"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                179,
+                192
+              ],
+              "text": "CanadaStrong"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1905096706527572081",
+        "url": "https://x.com/MarkJCarney/status/1905096706527572081",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1905096706527572081",
+        "text": "Les tarifs du président Trump feront mal, mais ils ne nous briseront pas.\n\nNous traverserons cette crise ensemble car à Kitchener-Waterloo, et dans tout le pays, nous sommes #UnCanadaFort. https://t.co/XmN3QxHvb0",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1,
+        "replyCount": 0,
+        "likeCount": 4,
+        "quoteCount": 0,
+        "viewCount": 206,
+        "createdAt": "Thu Mar 27 03:17:04 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1905096706527572081",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/XmN3QxHvb0",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1905096706527572081/photo/1",
+              "ext_alt_text": "Une foule de personnes est rassemblée lors d'un rassemblement de soutien à Mark Carney à Kitchener-Waterloo, Ontario.",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Bryan May",
+                      "screen_name": "_BryanMay",
+                      "type": "user",
+                      "user_id": "52080359"
+                    },
+                    {
+                      "name": "Valerie Bradford",
+                      "screen_name": "ValBradfordKSH",
+                      "type": "user",
+                      "user_id": "714340176"
+                    },
+                    {
+                      "name": "Tim Louis",
+                      "screen_name": "TimLouisKitCon",
+                      "type": "user",
+                      "user_id": "2678072299"
+                    },
+                    {
+                      "name": "Bardish Chagger",
+                      "screen_name": "BardishKW",
+                      "type": "user",
+                      "user_id": "2696723713"
+                    },
+                    {
+                      "name": "Colin Walsh",
+                      "screen_name": "CWALSHMATH",
+                      "type": "user",
+                      "user_id": "188417481"
+                    },
+                    {
+                      "name": "Brian Adeba",
+                      "screen_name": "kalamashaka",
+                      "type": "user",
+                      "user_id": "21163164"
+                    },
+                    {
+                      "name": "Dominique O'Rourke",
+                      "screen_name": "orourke4guelph",
+                      "type": "user",
+                      "user_id": "1731829066477531136"
+                    },
+                    {
+                      "name": "David Hilderley",
+                      "screen_name": "HilderleyLPC",
+                      "type": "user",
+                      "user_id": "1645996904222715905"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1114,
+                      "y": 514
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1500,
+                      "y": 558
+                    },
+                    {
+                      "h": 76,
+                      "w": 76,
+                      "x": 1914,
+                      "y": 696
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1114,
+                      "y": 514
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1500,
+                      "y": 558
+                    },
+                    {
+                      "h": 76,
+                      "w": 76,
+                      "x": 1914,
+                      "y": 696
+                    }
+                  ]
+                }
+              },
+              "id_str": "1905096703092441089",
+              "indices": [
+                189,
+                212
+              ],
+              "media_key": "3_1905096703092441089",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpwQ1ual8ABCgACGnBDXGdXsHEAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGnBDW5qXwAEKAAIacENcZ1ewcQAA",
+                  "media_key": "3_1905096703092441089"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GnBDW5qXwAEZa_k.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1147,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1366,
+                    "w": 1366,
+                    "x": 289,
+                    "y": 0
+                  },
+                  {
+                    "h": 1366,
+                    "w": 1198,
+                    "x": 373,
+                    "y": 0
+                  },
+                  {
+                    "h": 1366,
+                    "w": 683,
+                    "x": 631,
+                    "y": 0
+                  },
+                  {
+                    "h": 1366,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1366,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 1366,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/XmN3QxHvb0"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                174,
+                187
+              ],
+              "text": "UnCanadaFort"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1905041891453739485",
+        "url": "https://x.com/MarkJCarney/status/1905041891453739485",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1905041891453739485",
+        "text": "It’s time to look out for ourselves and our workers, and stand up for Canada. https://t.co/7dXRYO0UFz",
+        "source": "Twitter for iPhone",
+        "retweetCount": 738,
+        "replyCount": 1005,
+        "likeCount": 4096,
+        "quoteCount": 69,
+        "viewCount": 106238,
+        "createdAt": "Wed Mar 26 23:39:15 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 51,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1905041891453739485",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/7dXRYO0UFz",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1905041891453739485/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1905041793508413440",
+              "indices": [
+                78,
+                101
+              ],
+              "media_key": "13_1905041793508413440",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARpwEWr4V5AAAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABGnARavhXkAAAAA==",
+                  "media_key": "13_1905041793508413440"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1905041793508413440/img/N8MUVU42-etxcRTd.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/7dXRYO0UFz",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 30739,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1905041793508413440/pl/trpjqY-1xYrUWSpD.m3u8?tag=16"
+                  },
+                  {
+                    "bitrate": 432000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1905041793508413440/vid/avc1/320x320/eqLC_AjrzKsl9yoZ.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1905041793508413440/vid/avc1/540x540/6lJBalikEUCnCqSy.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1905041793508413440/vid/avc1/720x720/YgU4_K4u4Q8lxyfB.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 8768000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1905041793508413440/vid/avc1/1080x1080/oRQ0nTobfMqhexpA.mp4?tag=16"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1905041790236774491",
+        "url": "https://x.com/MarkJCarney/status/1905041790236774491",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1905041790236774491",
+        "text": "Le Canada est plus fort lorsqu’on est unis. https://t.co/E8L5p28gPC",
+        "source": "Twitter for iPhone",
+        "retweetCount": 75,
+        "replyCount": 137,
+        "likeCount": 435,
+        "quoteCount": 6,
+        "viewCount": 25184,
+        "createdAt": "Wed Mar 26 23:38:51 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 2,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1905041790236774491",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/E8L5p28gPC",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1905041790236774491/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1905041701766299648",
+              "indices": [
+                44,
+                67
+              ],
+              "media_key": "13_1905041701766299648",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARpwEVWcFgAAAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABGnARVZwWAAAAAA==",
+                  "media_key": "13_1905041701766299648"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1905041701766299648/img/ZNn1Er4zMPaRG9qG.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/E8L5p28gPC",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 18300,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1905041701766299648/pl/suARpuR92UtO8qvg.m3u8?tag=16"
+                  },
+                  {
+                    "bitrate": 432000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1905041701766299648/vid/avc1/320x320/lVu1HoeimcoS-49H.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1905041701766299648/vid/avc1/540x540/QFZ3YGJBKoGu6v_8.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1905041701766299648/vid/avc1/720x720/rpLUU_OEJSWKa3-x.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 8768000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1905041701766299648/vid/avc1/1080x1080/-nhZZCp196SGMHj2.mp4?tag=16"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1905020937977942469",
+        "url": "https://x.com/MarkJCarney/status/1905020937977942469",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1905020937977942469",
+        "text": "LIVE: my response to Trump’s new tariffs • EN DIRECT : ma réponse aux nouveaux tarifs de Trump https://t.co/DthLtEklwm",
+        "source": "Twitter for iPhone",
+        "retweetCount": 318,
+        "replyCount": 396,
+        "likeCount": 1183,
+        "quoteCount": 29,
+        "viewCount": 72661,
+        "createdAt": "Wed Mar 26 22:15:59 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 63,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1905020937977942469",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "broadcast_url",
+              "value": {
+                "string_value": "https://twitter.com/i/broadcasts/1OwGWXykNOqJQ"
+              }
+            },
+            {
+              "key": "broadcast_width",
+              "value": {
+                "string_value": "1920"
+              }
+            },
+            {
+              "key": "broadcast_state",
+              "value": {
+                "string_value": "ENDED"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribe_key": "publisher_id",
+                "user_value": {
+                  "id_str": "192272849"
+                }
+              }
+            },
+            {
+              "key": "broadcast_title",
+              "value": {
+                "string_value": "LIVE: my response to Trump’s new tariffs • EN DIRECT : ma réponse aux nouveaux tarifs de Trump"
+              }
+            },
+            {
+              "key": "broadcast_source",
+              "value": {
+                "string_value": "Producer"
+              }
+            },
+            {
+              "key": "broadcast_orientation",
+              "value": {
+                "string_value": "0"
+              }
+            },
+            {
+              "key": "broadcast_id",
+              "value": {
+                "string_value": "1OwGWXykNOqJQ"
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1905096220982571008/L-ApPyoa?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "broadcaster_twitter_id",
+              "value": {
+                "string_value": "192272849"
+              }
+            },
+            {
+              "key": "broadcast_height",
+              "value": {
+                "string_value": "1080"
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_original",
+              "value": {
+                "image_value": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/1905096220982571008/L-ApPyoa?format=jpg&name=orig",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "broadcaster_username",
+              "value": {
+                "string_value": "MarkJCarney"
+              }
+            },
+            {
+              "key": "broadcast_media_key",
+              "value": {
+                "string_value": "28_1905020930788847616"
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_x_large",
+              "value": {
+                "image_value": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/1905096220982571008/L-ApPyoa?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "broadcaster_display_name",
+              "value": {
+                "string_value": "Mark Carney"
+              }
+            },
+            {
+              "key": "broadcast_is_high_latency",
+              "value": {
+                "boolean_value": true
+              }
+            },
+            {
+              "key": "broadcast_thumbnail",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1905096220982571008/L-ApPyoa?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 43.85,
+                      "rgb": {
+                        "blue": 60,
+                        "green": 58,
+                        "red": 68
+                      }
+                    },
+                    {
+                      "percentage": 35.53,
+                      "rgb": {
+                        "blue": 40,
+                        "green": 23,
+                        "red": 123
+                      }
+                    },
+                    {
+                      "percentage": 17.95,
+                      "rgb": {
+                        "blue": 116,
+                        "green": 117,
+                        "red": 130
+                      }
+                    },
+                    {
+                      "percentage": 0.98,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 26,
+                        "red": 78
+                      }
+                    },
+                    {
+                      "percentage": 0.34,
+                      "rgb": {
+                        "blue": 40,
+                        "green": 52,
+                        "red": 63
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "broadcast_media_id",
+              "value": {
+                "string_value": "1905020930788847616"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/DthLtEklwm"
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/1905096220982571008/L-ApPyoa?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "745291183405076480:broadcast",
+          "url": "https://t.co/DthLtEklwm",
+          "user_refs_results": [
+            {
+              "rest_id": "192272849",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 564
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/192272849/1741564654"
+                },
+                "core": {
+                  "created_at": "Sat Sep 18 17:26:00 +0000 2010",
+                  "name": "Mark Carney",
+                  "screen_name": "MarkJCarney"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "exclusive_tweet_following": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "Ottawa, Canada"
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "notifications_settings": {},
+                "pinned_items": {
+                  "tweet_ids_str": [
+                    "1898878068313260241"
+                  ]
+                },
+                "privacy": {},
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "markcarney.ca",
+                          "expanded_url": "http://markcarney.ca",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/wN083ppBrC"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "1DA1F2"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": true
+                },
+                "relationship_counts": {
+                  "followers": 331544,
+                  "following": 674
+                },
+                "relationship_perspectives": {},
+                "rest_id": "192272849",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 616,
+                  "tweets": 1530
+                },
+                "website": {
+                  "url": "https://t.co/wN083ppBrC"
+                },
+                "verification": {
+                  "is_blue_verified": true
+                }
+              }
+            }
+          ]
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/broadcasts/1…",
+              "expanded_url": "https://x.com/i/broadcasts/1OwGWXykNOqJQ",
+              "indices": [
+                95,
+                118
+              ],
+              "url": "https://t.co/DthLtEklwm"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904993061417230746",
+        "url": "https://x.com/MarkJCarney/status/1904993061417230746",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904993061417230746",
+        "text": "We will build an All-In-Canada auto manufacturing network. It will be powered by Canadian workers using Canadian steel, aluminum, and critical minerals. https://t.co/sr9hHkz0q5",
+        "source": "Twitter for iPhone",
+        "retweetCount": 990,
+        "replyCount": 1367,
+        "likeCount": 5289,
+        "quoteCount": 156,
+        "viewCount": 221578,
+        "createdAt": "Wed Mar 26 20:25:13 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 75,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904993061417230746",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/sr9hHkz0q5",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1904993061417230746/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1904992977560219650",
+              "indices": [
+                153,
+                176
+              ],
+              "media_key": "13_1904992977560219650",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARpv5QUfFzACAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABGm/lBR8XMAIAAA==",
+                  "media_key": "13_1904992977560219650"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1904992977560219650/img/r3YlIU2WJ1cy-y8E.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1920,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1920,
+                  "w": 1080
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/sr9hHkz0q5",
+              "video_info": {
+                "aspect_ratio": [
+                  9,
+                  16
+                ],
+                "duration_millis": 24541,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1904992977560219650/pl/TD0_WBNS-xj_7GzG.m3u8?tag=16"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904992977560219650/vid/avc1/320x568/ygecPlsxoT3WUKHJ.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904992977560219650/vid/avc1/480x852/Jj0V1VdcOt7A8S57.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904992977560219650/vid/avc1/720x1280/0J53AsLQxznNK35A.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904992977560219650/vid/avc1/1080x1920/ZqPNzmwOv14NE4YB.mp4?tag=16"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904992974334788065",
+        "url": "https://x.com/MarkJCarney/status/1904992974334788065",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904992974334788065",
+        "text": "Nous allons bâtir un réseau manufacturier d’auto entièrement canadien, réalisé par des travailleurs canadiens, qui va utiliser l’acier, l’aluminium et les minéraux critiques du Canada. https://t.co/0PLqYpwqOy",
+        "source": "Twitter for iPhone",
+        "retweetCount": 55,
+        "replyCount": 116,
+        "likeCount": 343,
+        "quoteCount": 2,
+        "viewCount": 24227,
+        "createdAt": "Wed Mar 26 20:24:52 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 6,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904992974334788065",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/0PLqYpwqOy",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1904992974334788065/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1904992873344290817",
+              "indices": [
+                185,
+                208
+              ],
+              "media_key": "13_1904992873344290817",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARpv5OzbVlABAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABGm/k7NtWUAEAAA==",
+                  "media_key": "13_1904992873344290817"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1904992873344290817/img/jdBDnZ20_5ie1-3i.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1920,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1920,
+                  "w": 1080
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/0PLqYpwqOy",
+              "video_info": {
+                "aspect_ratio": [
+                  9,
+                  16
+                ],
+                "duration_millis": 24541,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1904992873344290817/pl/vWWF69xAZHzTzGeN.m3u8?tag=16"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904992873344290817/vid/avc1/320x568/H6b0_3EE_tDKYa4t.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904992873344290817/vid/avc1/480x852/46ju9VdZRh4jbYrq.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904992873344290817/vid/avc1/720x1280/gFpwlIL6GhXq5fZa.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904992873344290817/vid/avc1/1080x1920/FhpMAXOv4-OxRM2_.mp4?tag=16"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904954540534747455",
+        "url": "https://x.com/MarkJCarney/status/1904954540534747455",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904954540534747455",
+        "text": "Canadian auto workers don’t just build vehicles, they build Canada.\n\nWe are investing $2 billion to protect and create good-paying jobs, build up our auto manufacturing sector, and help workers learn new skills to meet this moment. https://t.co/V2qdjPUvN3",
+        "source": "Twitter for iPhone",
+        "retweetCount": 640,
+        "replyCount": 1305,
+        "likeCount": 3410,
+        "quoteCount": 58,
+        "viewCount": 153220,
+        "createdAt": "Wed Mar 26 17:52:09 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 29,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904954540534747455",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/V2qdjPUvN3",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1904954540534747455/photo/1",
+              "ext_alt_text": "Mark Carney making an announcement in front of the Ambassador Bridge in Windsor, Ontario.",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 146,
+                      "w": 146,
+                      "x": 1862,
+                      "y": 1522
+                    },
+                    {
+                      "h": 226,
+                      "w": 226,
+                      "x": 336,
+                      "y": 1212
+                    },
+                    {
+                      "h": 288,
+                      "w": 288,
+                      "x": 1128,
+                      "y": 1060
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 146,
+                      "w": 146,
+                      "x": 1862,
+                      "y": 1522
+                    },
+                    {
+                      "h": 226,
+                      "w": 226,
+                      "x": 336,
+                      "y": 1212
+                    },
+                    {
+                      "h": 288,
+                      "w": 288,
+                      "x": 1128,
+                      "y": 1060
+                    }
+                  ]
+                }
+              },
+              "id_str": "1904954535304421377",
+              "indices": [
+                232,
+                255
+              ],
+              "media_key": "3_1904954535304421377",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpvwg6WFuABCgACGm/CD83XUT8AAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGm/CDpYW4AEKAAIab8IPzddRPwAA",
+                  "media_key": "3_1904954535304421377"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/Gm_CDpYW4AEXdYr.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1147,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 901
+                  },
+                  {
+                    "h": 2048,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1796,
+                    "x": 252,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 870,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/V2qdjPUvN3"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904954509123604915",
+        "url": "https://x.com/MarkJCarney/status/1904954509123604915",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904954509123604915",
+        "text": "Les travailleurs du secteur automobile canadien ne bâtissent pas que des véhicules, ils bâtissent le Canada.\n\nNous investissons $2 milliards pour protéger les emplois bien rémunérés, renforcer notre capacité de production automobile et aider les travailleurs à se perfectionner. https://t.co/Y4yfsjmRdY",
+        "source": "Twitter for iPhone",
+        "retweetCount": 45,
+        "replyCount": 85,
+        "likeCount": 256,
+        "quoteCount": 0,
+        "viewCount": 20821,
+        "createdAt": "Wed Mar 26 17:52:01 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 3,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904954509123604915",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/Y4yfsjmRdY",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1904954509123604915/photo/1",
+              "ext_alt_text": "Mark Carney fait une annonce devant le pont Ambassador à Windsor, Ontario.",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 146,
+                      "w": 146,
+                      "x": 1862,
+                      "y": 1522
+                    },
+                    {
+                      "h": 226,
+                      "w": 226,
+                      "x": 336,
+                      "y": 1212
+                    },
+                    {
+                      "h": 288,
+                      "w": 288,
+                      "x": 1128,
+                      "y": 1060
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 146,
+                      "w": 146,
+                      "x": 1862,
+                      "y": 1522
+                    },
+                    {
+                      "h": 226,
+                      "w": 226,
+                      "x": 336,
+                      "y": 1212
+                    },
+                    {
+                      "h": 288,
+                      "w": 288,
+                      "x": 1128,
+                      "y": 1060
+                    }
+                  ]
+                }
+              },
+              "id_str": "1904954503801008128",
+              "indices": [
+                279,
+                302
+              ],
+              "media_key": "3_1904954503801008128",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpvwgdAVvAACgACGm/CCH2XUbMAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGm/CB0BW8AAKAAIab8IIfZdRswAA",
+                  "media_key": "3_1904954503801008128"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/Gm_CB0BW8AAI36_.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1147,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 901
+                  },
+                  {
+                    "h": 2048,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1796,
+                    "x": 252,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 870,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/Y4yfsjmRdY"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904898790458270199",
+        "url": "https://x.com/MarkJCarney/status/1904898790458270199",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904898790458270199",
+        "text": "Auto parts cross the Canada-U.S. border six times on average before final assembly. In a trade crisis, that’s a vulnerability.\n \nIt’s time to build more cars right here at home with an All-In-Canada auto manufacturing network.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1272,
+        "replyCount": 1623,
+        "likeCount": 7619,
+        "quoteCount": 194,
+        "viewCount": 360242,
+        "createdAt": "Wed Mar 26 14:10:37 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 104,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904898790458270199",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904898774972915882",
+        "url": "https://x.com/MarkJCarney/status/1904898774972915882",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904898774972915882",
+        "text": "Les pièces d'autos traversent en moyenne six fois la frontière canado-américaine avant l'assemblage final. Durant une crise commerciale, c'est une vulnérabilité.\n\nIl est temps de bâtir plus de voitures ici, chez nous, grâce à un réseau de fabrication d’autos entièrement canadien.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 52,
+        "replyCount": 117,
+        "likeCount": 245,
+        "quoteCount": 2,
+        "viewCount": 28470,
+        "createdAt": "Wed Mar 26 14:10:33 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 4,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904898774972915882",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904888517651542369",
+        "url": "https://x.com/MarkJCarney/status/1904888517651542369",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904888517651542369",
+        "text": "Good-paying union jobs keep Canada Strong.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 697,
+        "replyCount": 1778,
+        "likeCount": 5875,
+        "quoteCount": 124,
+        "viewCount": 453341,
+        "createdAt": "Wed Mar 26 13:29:48 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 49,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904888517651542369",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904888079573283146",
+        "url": "https://x.com/MarkJCarney/status/1904888079573283146",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904888079573283146",
+        "text": "Les emplois syndiqués bien rémunérés permettent au Canada de rester fort.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 44,
+        "replyCount": 179,
+        "likeCount": 280,
+        "quoteCount": 8,
+        "viewCount": 31815,
+        "createdAt": "Wed Mar 26 13:28:03 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 2,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904888079573283146",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904887052531098023",
+        "url": "https://x.com/MarkJCarney/status/1904887052531098023",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904887052531098023",
+        "text": "LIVE from the Ambassador Bridge in Windsor • EN DIRECT du pont Ambassador à Windsor https://t.co/mbzgb9bPz2",
+        "source": "Twitter for iPhone",
+        "retweetCount": 190,
+        "replyCount": 374,
+        "likeCount": 919,
+        "quoteCount": 12,
+        "viewCount": 41159,
+        "createdAt": "Wed Mar 26 13:23:59 +0000 2025",
+        "lang": "ca",
+        "bookmarkCount": 19,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904887052531098023",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "broadcast_url",
+              "value": {
+                "string_value": "https://twitter.com/i/broadcasts/1YqKDZrQwVoJV"
+              }
+            },
+            {
+              "key": "broadcast_width",
+              "value": {
+                "string_value": "1920"
+              }
+            },
+            {
+              "key": "broadcast_state",
+              "value": {
+                "string_value": "ENDED"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribe_key": "publisher_id",
+                "user_value": {
+                  "id_str": "192272849"
+                }
+              }
+            },
+            {
+              "key": "broadcast_title",
+              "value": {
+                "string_value": "LIVE from the Ambassador Bridge in Windsor • EN DIRECT du pont Ambassador à Windsor"
+              }
+            },
+            {
+              "key": "broadcast_source",
+              "value": {
+                "string_value": "Producer"
+              }
+            },
+            {
+              "key": "broadcast_orientation",
+              "value": {
+                "string_value": "0"
+              }
+            },
+            {
+              "key": "broadcast_id",
+              "value": {
+                "string_value": "1YqKDZrQwVoJV"
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1905096471843573760/IyQfTCWN?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "broadcaster_twitter_id",
+              "value": {
+                "string_value": "192272849"
+              }
+            },
+            {
+              "key": "broadcast_height",
+              "value": {
+                "string_value": "1080"
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_original",
+              "value": {
+                "image_value": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/1905096471843573760/IyQfTCWN?format=jpg&name=orig",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "broadcaster_username",
+              "value": {
+                "string_value": "MarkJCarney"
+              }
+            },
+            {
+              "key": "broadcast_media_key",
+              "value": {
+                "string_value": "28_1904887044389953536"
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_x_large",
+              "value": {
+                "image_value": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/1905096471843573760/IyQfTCWN?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                }
+              }
+            },
+            {
+              "key": "broadcaster_display_name",
+              "value": {
+                "string_value": "Mark Carney"
+              }
+            },
+            {
+              "key": "broadcast_is_high_latency",
+              "value": {
+                "boolean_value": true
+              }
+            },
+            {
+              "key": "broadcast_thumbnail",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1905096471843573760/IyQfTCWN?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 63.52,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 31,
+                        "red": 34
+                      }
+                    },
+                    {
+                      "percentage": 33.3,
+                      "rgb": {
+                        "blue": 168,
+                        "green": 154,
+                        "red": 151
+                      }
+                    },
+                    {
+                      "percentage": 2.24,
+                      "rgb": {
+                        "blue": 44,
+                        "green": 26,
+                        "red": 92
+                      }
+                    },
+                    {
+                      "percentage": 0.58,
+                      "rgb": {
+                        "blue": 197,
+                        "green": 186,
+                        "red": 176
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "broadcast_media_id",
+              "value": {
+                "string_value": "1904887044389953536"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/mbzgb9bPz2"
+              }
+            },
+            {
+              "key": "broadcast_thumbnail_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/1905096471843573760/IyQfTCWN?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "745291183405076480:broadcast",
+          "url": "https://t.co/mbzgb9bPz2",
+          "user_refs_results": [
+            {
+              "rest_id": "192272849",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 564
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/192272849/1741564654"
+                },
+                "core": {
+                  "created_at": "Sat Sep 18 17:26:00 +0000 2010",
+                  "name": "Mark Carney",
+                  "screen_name": "MarkJCarney"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "exclusive_tweet_following": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "Ottawa, Canada"
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "notifications_settings": {},
+                "pinned_items": {
+                  "tweet_ids_str": [
+                    "1898878068313260241"
+                  ]
+                },
+                "privacy": {},
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "markcarney.ca",
+                          "expanded_url": "http://markcarney.ca",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/wN083ppBrC"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "1DA1F2"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": true
+                },
+                "relationship_counts": {
+                  "followers": 331544,
+                  "following": 674
+                },
+                "relationship_perspectives": {},
+                "rest_id": "192272849",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 616,
+                  "tweets": 1530
+                },
+                "website": {
+                  "url": "https://t.co/wN083ppBrC"
+                },
+                "verification": {
+                  "is_blue_verified": true
+                }
+              }
+            }
+          ]
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/broadcasts/1…",
+              "expanded_url": "https://x.com/i/broadcasts/1YqKDZrQwVoJV",
+              "indices": [
+                84,
+                107
+              ],
+              "url": "https://t.co/mbzgb9bPz2"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904882070133862868",
+        "url": "https://x.com/MarkJCarney/status/1904882070133862868",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904882070133862868",
+        "text": "Good morning, Windsor. https://t.co/DL4P4a9JKu",
+        "source": "Twitter for iPhone",
+        "retweetCount": 284,
+        "replyCount": 659,
+        "likeCount": 3384,
+        "quoteCount": 26,
+        "viewCount": 106815,
+        "createdAt": "Wed Mar 26 13:04:11 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 17,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904882070133862868",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/DL4P4a9JKu",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1904882070133862868/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1904882008486035456",
+              "indices": [
+                23,
+                46
+              ],
+              "media_key": "13_1904882008486035456",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARpvgBge18AAAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABGm+AGB7XwAAAAA==",
+                  "media_key": "13_1904882008486035456"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1904882008486035456/img/siZhRDvvBlWOi3hr.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/DL4P4a9JKu",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 10033,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1904882008486035456/pl/eVxJqw0fABDtiyJV.m3u8?tag=16"
+                  },
+                  {
+                    "bitrate": 432000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904882008486035456/vid/avc1/320x320/gBxNKBxrqUiY7Wij.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904882008486035456/vid/avc1/540x540/pxrGKBf8I_kTQSrM.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904882008486035456/vid/avc1/720x720/7D80Yj4THZebYPru.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 8768000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904882008486035456/vid/avc1/1080x1080/txDmxINRd7Kgw2hm.mp4?tag=16"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904882005302546879",
+        "url": "https://x.com/MarkJCarney/status/1904882005302546879",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904882005302546879",
+        "text": "Bonjour Windsor. https://t.co/9E7LcSHKIS",
+        "source": "Twitter for iPhone",
+        "retweetCount": 81,
+        "replyCount": 263,
+        "likeCount": 955,
+        "quoteCount": 13,
+        "viewCount": 36902,
+        "createdAt": "Wed Mar 26 13:03:55 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 9,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904882005302546879",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/9E7LcSHKIS",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1904882005302546879/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1904881947479801856",
+              "indices": [
+                17,
+                40
+              ],
+              "media_key": "13_1904881947479801856",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARpvgAnqloAAAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABGm+ACeqWgAAAAA==",
+                  "media_key": "13_1904881947479801856"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1904881947479801856/img/N0Zsss_1pe5_hRxf.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/9E7LcSHKIS",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 10033,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1904881947479801856/pl/WhjiuEi4Tib96cRn.m3u8?tag=16"
+                  },
+                  {
+                    "bitrate": 432000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904881947479801856/vid/avc1/320x320/FcUbzLfHJSPYxFvq.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904881947479801856/vid/avc1/540x540/DZCdvrGhLFB1RtNH.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904881947479801856/vid/avc1/720x720/pTlDy01kzUWrSA1C.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 8768000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904881947479801856/vid/avc1/1080x1080/b0J0BHgJLDb2VxFs.mp4?tag=16"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904734344310108189",
+        "url": "https://x.com/MarkJCarney/status/1904734344310108189",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904734344310108189",
+        "text": "RT @liberal_party: We’re facing big challenges, and we need a strong team to lead us through it.\n\nSean, we’re so glad you’re stepping up fo…",
+        "source": "Twitter for iPhone",
+        "retweetCount": 335,
+        "replyCount": 1176,
+        "likeCount": 1761,
+        "quoteCount": 61,
+        "viewCount": 91259,
+        "createdAt": "Wed Mar 26 03:17:10 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 16,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904734344310108189",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "16397147",
+              "indices": [
+                3,
+                17
+              ],
+              "name": "Liberal Party",
+              "screen_name": "liberal_party"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1904733153710739745",
+          "url": "https://x.com/liberal_party/status/1904733153710739745",
+          "twitterUrl": "https://twitter.com/liberal_party/status/1904733153710739745",
+          "text": "We’re facing big challenges, and we need a strong team to lead us through it.\n\nSean, we’re so glad you’re stepping up for the people of Central Nova again. https://t.co/ntqyVzELf7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 335,
+          "replyCount": 1176,
+          "likeCount": 1761,
+          "quoteCount": 61,
+          "viewCount": 91259,
+          "createdAt": "Wed Mar 26 03:12:26 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 16,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1904733153710739745",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "liberal_party",
+            "url": "https://x.com/liberal_party",
+            "twitterUrl": "https://twitter.com/liberal_party",
+            "id": "16397147",
+            "name": "Liberal Party",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1830967721976057856/cF0arTGJ_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/16397147/1741895585",
+            "description": "",
+            "location": "Canada",
+            "followers": 442400,
+            "following": 4678,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Mon Sep 22 00:29:05 +0000 2008",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 5782,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5342,
+            "statusesCount": 32365,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1898864551551959478"
+            ],
+            "profile_bio": {
+              "description": "🇨🇦 Liberal Party of Canada | Building a stronger Canada with @MarkJCarney | En français à : @parti_liberal",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        61,
+                        73
+                      ],
+                      "name": "",
+                      "screen_name": "MarkJCarney"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        92,
+                        106
+                      ],
+                      "name": "",
+                      "screen_name": "parti_liberal"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "liberal.ca/links/",
+                      "expanded_url": "https://liberal.ca/links/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jDRbIkW8SE"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/ntqyVzELf7",
+                "expanded_url": "https://twitter.com/liberal_party/status/1904733153710739745/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "all": {
+                    "tags": [
+                      {
+                        "name": "Sean Fraser",
+                        "screen_name": "SeanFraserMP",
+                        "type": "user",
+                        "user_id": "1072270926"
+                      }
+                    ]
+                  },
+                  "large": {},
+                  "orig": {}
+                },
+                "id_str": "1904733084123107328",
+                "indices": [
+                  156,
+                  179
+                ],
+                "media_key": "3_1904733084123107328",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpu+KX3F5AACgACGm74tirWkSEAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGm74pfcXkAAKAAIabvi2KtaRIQAA",
+                    "media_key": "3_1904733084123107328"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gm74pfcXkAAeLlp.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 672,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1200,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1200,
+                      "w": 1053,
+                      "x": 147,
+                      "y": 0
+                    },
+                    {
+                      "h": 1200,
+                      "w": 600,
+                      "x": 510,
+                      "y": 0
+                    },
+                    {
+                      "h": 1200,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1200,
+                  "width": 1200
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1200,
+                    "w": 1200
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/ntqyVzELf7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "1904734327360884839",
+        "url": "https://x.com/MarkJCarney/status/1904734327360884839",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904734327360884839",
+        "text": "RT @parti_liberal: Nous faisons face à l’élection la plus importante de notre vie, nous avons besoin que tout le monde mette la main à la p…",
+        "source": "Twitter for iPhone",
+        "retweetCount": 39,
+        "replyCount": 100,
+        "likeCount": 147,
+        "quoteCount": 0,
+        "viewCount": 24046,
+        "createdAt": "Wed Mar 26 03:17:06 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904734327360884839",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "16397838",
+              "indices": [
+                3,
+                17
+              ],
+              "name": "Parti libéral",
+              "screen_name": "parti_liberal"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1904733017496564047",
+          "url": "https://x.com/parti_liberal/status/1904733017496564047",
+          "twitterUrl": "https://twitter.com/parti_liberal/status/1904733017496564047",
+          "text": "Nous faisons face à l’élection la plus importante de notre vie, nous avons besoin que tout le monde mette la main à la pâte.\n\nC'est formidable d'avoir Sean Fraser dans l'équipe libérale de Nova-Centre. https://t.co/dfqhETSHih",
+          "source": "Twitter for iPhone",
+          "retweetCount": 39,
+          "replyCount": 100,
+          "likeCount": 147,
+          "quoteCount": 0,
+          "viewCount": 24046,
+          "createdAt": "Wed Mar 26 03:11:54 +0000 2025",
+          "lang": "fr",
+          "bookmarkCount": 1,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1904733017496564047",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "parti_liberal",
+            "url": "https://x.com/parti_liberal",
+            "twitterUrl": "https://twitter.com/parti_liberal",
+            "id": "16397838",
+            "name": "Parti libéral",
+            "isVerified": false,
+            "isBlueVerified": false,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1830967520800423936/lQn3nDEI_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/16397838/1741895543",
+            "description": "",
+            "location": "Canada",
+            "followers": 23921,
+            "following": 2385,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Mon Sep 22 01:30:23 +0000 2008",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 512,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5171,
+            "statusesCount": 22618,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1898864461043159367"
+            ],
+            "profile_bio": {
+              "description": "🇨🇦 Parti libéral du Canada | Bâtir un Canada plus fort avec @MarkJCarney | In English at : @liberal_party",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        60,
+                        72
+                      ],
+                      "name": "",
+                      "screen_name": "MarkJCarney"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        91,
+                        105
+                      ],
+                      "name": "",
+                      "screen_name": "liberal_party"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "liberal.ca/fr/liens/",
+                      "expanded_url": "https://liberal.ca/fr/liens/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Bvi8PdKKpW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/dfqhETSHih",
+                "expanded_url": "https://twitter.com/parti_liberal/status/1904733017496564047/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "all": {
+                    "tags": [
+                      {
+                        "name": "Sean Fraser",
+                        "screen_name": "SeanFraserMP",
+                        "type": "user",
+                        "user_id": "1072270926"
+                      }
+                    ]
+                  },
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 167,
+                        "w": 167,
+                        "x": 912,
+                        "y": 740
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 167,
+                        "w": 167,
+                        "x": 912,
+                        "y": 740
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1904732952350674944",
+                "indices": [
+                  202,
+                  225
+                ],
+                "media_key": "3_1904732952350674944",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpu+IdI19AACgACGm74lnPXMU8AAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGm74h0jX0AAKAAIabviWc9cxTwAA",
+                    "media_key": "3_1904732952350674944"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gm74h0jX0AA3epP.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 671,
+                      "w": 1199,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 951,
+                      "w": 951,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 951,
+                      "w": 834,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 951,
+                      "w": 476,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 951,
+                      "w": 1199,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 951,
+                  "width": 1199
+                },
+                "sizes": {
+                  "large": {
+                    "h": 951,
+                    "w": 1199
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/dfqhETSHih"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "1904701159039721806",
+        "url": "https://x.com/MarkJCarney/status/1904701159039721806",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904701159039721806",
+        "text": "It’s good to buy Canadian wherever you can — and the Withrow’s Farm Market here in Hants County makes it easy. https://t.co/gVvvvTupEr",
+        "source": "Twitter for iPhone",
+        "retweetCount": 823,
+        "replyCount": 1356,
+        "likeCount": 5868,
+        "quoteCount": 88,
+        "viewCount": 209716,
+        "createdAt": "Wed Mar 26 01:05:18 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 73,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904701159039721806",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/gVvvvTupEr",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1904701159039721806/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1904701095777079296",
+              "indices": [
+                111,
+                134
+              ],
+              "media_key": "13_1904701095777079296",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARpu244ZFxAAAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABGm7bjhkXEAAAAA==",
+                  "media_key": "13_1904701095777079296"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1904701095777079296/img/sc017NmREkBLMNfW.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/gVvvvTupEr",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 35666,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1904701095777079296/pl/Etfls6CdvFDCcIK6.m3u8?tag=16&v=382"
+                  },
+                  {
+                    "bitrate": 432000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904701095777079296/vid/avc1/320x320/3jC2bBqq9ihzwCoF.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904701095777079296/vid/avc1/540x540/inJC9GAN-lzmlVOp.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904701095777079296/vid/avc1/720x720/KZrCp6KcALLkxs3z.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 8768000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904701095777079296/vid/avc1/1080x1080/5ON3MevSonrpvZjz.mp4?tag=16"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1904701092929138988",
+        "url": "https://x.com/MarkJCarney/status/1904701092929138988",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1904701092929138988",
+        "text": "C'est bien d'acheter des produits canadiens chaque fois que vous le pouvez. Withrow’s Farm Market dans le comté de Hants rend ça possible. https://t.co/weMj1SMWpg",
+        "source": "Twitter for iPhone",
+        "retweetCount": 86,
+        "replyCount": 180,
+        "likeCount": 501,
+        "quoteCount": 3,
+        "viewCount": 34552,
+        "createdAt": "Wed Mar 26 01:05:02 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 8,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1904701092929138988",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331544,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/weMj1SMWpg",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1904701092929138988/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1904701027313393665",
+              "indices": [
+                139,
+                162
+              ],
+              "media_key": "13_1904701027313393665",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARpu234oViABAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABGm7bfihWIAEAAA==",
+                  "media_key": "13_1904701027313393665"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1904701027313393665/img/TfqPK49TmYlmxp3X.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1080,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/weMj1SMWpg",
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 35666,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1904701027313393665/pl/VygXDUX2BR-GvhfO.m3u8?tag=16&v=45d"
+                  },
+                  {
+                    "bitrate": 432000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904701027313393665/vid/avc1/320x320/WwBt3LMisNSqysdU.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904701027313393665/vid/avc1/540x540/7oETlLZ6aqK3rD-i.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904701027313393665/vid/avc1/720x720/HKfknRNqs0VLi0jX.mp4?tag=16"
+                  },
+                  {
+                    "bitrate": 8768000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1904701027313393665/vid/avc1/1080x1080/TFDHIIMh3UqEZW6b.mp4?tag=16"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      }
+    ]
+  },
+  "has_next_page": true,
+  "next_cursor": "DAABCgABGnBDrGE__-gKAAIabtuNb1bxLAgAAwAAAAIAAA"
+}

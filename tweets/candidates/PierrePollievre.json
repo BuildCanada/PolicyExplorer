@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "msg": "success",
+  "data": {
+    "id": "242827267",
+    "name": "Pierre Poilievre",
+    "userName": "PierrePoilievre",
+    "location": "Ottawa, Ontario",
+    "url": "https://t.co/5e9ZR0g1Dk",
+    "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+    "protected": false,
+    "isVerified": false,
+    "isBlueVerified": true,
+    "followers": 1451850,
+    "following": 1172,
+    "favouritesCount": 1367,
+    "statusesCount": 20184,
+    "mediaCount": 8325,
+    "createdAt": "2011-01-25T17:55:39.000000Z",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+    "canDm": false,
+    "isAutomated": false,
+    "automatedBy": null
+  }
+}
