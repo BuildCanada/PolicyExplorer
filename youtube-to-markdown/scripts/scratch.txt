@@ -1,0 +1,1 @@
+yt-dlp --print "%(id)s|%(title)s|%(upload_date)s|%(language)s" --match-filter "language = 'en'" --no-playlist "https://www.youtube.com/@MarkJCarney/videos" --max-downloads 50
