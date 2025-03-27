@@ -12,11 +12,13 @@ API_KEY="b771c55bd6be40018f0c0ff583d3b691"
 BASE_URL="https://api.twitterapi.io/twitter/user/last_tweets"
 CURSOR=""
 
-mkdir -p "$USERNAME"
+# Create user directory with json and markdown subdirectories
+mkdir -p "tweets/$USERNAME/json"
+mkdir -p "tweets/$USERNAME/markdown"
 
 if [ -n "$RESUME_PAGE" ]; then
   echo "Resuming from page $RESUME_PAGE..."
-  CURSOR=$(jq -r '.next_cursor' "$USERNAME/$RESUME_PAGE.json")
+  CURSOR=$(jq -r '.next_cursor' "tweets/$USERNAME/json/$RESUME_PAGE.json")
   PAGE=$((RESUME_PAGE + 1))
 else
   PAGE=1
@@ -35,7 +37,7 @@ while true; do
     --url "$URL" \
     --header "X-API-Key: $API_KEY")
 
-  echo "$RESPONSE" > "$USERNAME/$PAGE.json"
+  echo "$RESPONSE" > "tweets/$USERNAME/json/$PAGE.json"
 
   HAS_NEXT=$(echo "$RESPONSE" | jq -r '.has_next_page')
   if [ "$HAS_NEXT" != "true" ]; then
