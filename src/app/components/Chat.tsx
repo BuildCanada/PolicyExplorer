@@ -76,13 +76,13 @@ const Chat: React.FC = () => {
   return (
     <div className={styles.chatContainer}>
       <div className={styles.chatHeader}>
-        <h2>Assistant Chat</h2>
+        {/* Chat header content removed */}
       </div>
       
       <div className={styles.messagesContainer}>
         {threadData.messages.length === 0 ? (
           <div className={styles.emptyState}>
-            <p>Send a message to start chatting with the assistant.</p>
+            <p>Send a message to start exploring policy information.</p>
           </div>
         ) : (
           threadData.messages.map(message => (
@@ -92,7 +92,7 @@ const Chat: React.FC = () => {
         
         {threadData.isLoading && (
           <div className={styles.loadingIndicator}>
-            <p>Assistant is thinking...</p>
+            <p>Processing your request...</p>
           </div>
         )}
         

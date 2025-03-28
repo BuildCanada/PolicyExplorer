@@ -1,54 +1,95 @@
 .header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 1rem 2rem;
-  background-color: var(--white);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  box-shadow: var(--shadow);
+  background-color: var(--background-color);
+  border-bottom: var(--grid-line);
   position: sticky;
   top: 0;
   z-index: 100;
+  height: 80px;
+}
+
+.nav {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--primary-color);
+  color: var(--white);
+  padding: 0 1.5rem;
+  height: 100%;
+  width: 164px;
+  border-right: var(--grid-line);
 }
 
 .logo h1 {
-  color: var(--primary-color);
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 600;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.heroSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3rem 0;
+  text-align: center;
+  border-bottom: var(--grid-line);
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.heroSubtitle {
+  font-size: 3rem;
+  color: var(--primary-color);
+  margin-bottom: 2rem;
+  font-weight: 700;
+}
+
+.heroText {
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  line-height: 1.6;
 }
 
 .chatContainer {
-  max-width: 1000px;
-  margin: 2rem auto;
-  background-color: var(--white);
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow);
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: var(--background-color);
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  height: calc(100vh - 200px);
+  flex: 1;
+  border: var(--grid-line);
+  border-top: none;
 }
 
 .chatHeader {
   padding: 1rem;
-  background-color: var(--primary-color);
-  color: var(--white);
-  border-top-left-radius: var(--border-radius);
-  border-top-right-radius: var(--border-radius);
-}
-
-.chatHeader h2 {
-  font-size: 1.25rem;
-  font-weight: 500;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  border-bottom: var(--grid-line);
 }
 
 .messagesContainer {
   flex-grow: 1;
-  padding: 1rem;
+  padding: 1rem 2rem;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 2rem;
+  background-color: var(--background-color);
 }
 
 .messageContainer {
@@ -67,17 +108,16 @@
 .userMessage .messageBubble {
   background-color: var(--primary-color);
   color: var(--white);
-  border-radius: var(--border-radius) 0 var(--border-radius) var(--border-radius);
 }
 
 .assistantMessage .messageBubble {
-  background-color: var(--accent-color);
+  background-color: #f0eae3;
   color: var(--text-color);
-  border-radius: 0 var(--border-radius) var(--border-radius) var(--border-radius);
+  border: var(--grid-line);
 }
 
 .messageBubble {
-  padding: 0.75rem 1rem;
+  padding: 1rem 1.5rem;
   margin-bottom: 0.25rem;
   word-wrap: break-word;
 }
@@ -86,23 +126,24 @@
   font-size: 0.75rem;
   color: var(--light-text);
   text-align: right;
+  margin-top: 0.5rem;
 }
 
 .inputForm {
   display: flex;
-  padding: 1rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  background-color: var(--white);
+  padding: 1.5rem;
+  border-top: var(--grid-line);
+  background-color: var(--background-color);
 }
 
 .messageInput {
   flex-grow: 1;
-  padding: 0.75rem 1rem;
-  border: 1px solid #e0e0e0;
-  border-radius: var(--border-radius);
+  padding: 1rem 1.5rem;
+  border: var(--grid-line);
   font-size: 1rem;
   outline: none;
   transition: border-color 0.2s;
+  background-color: var(--background-color);
 }
 
 .messageInput:focus {
@@ -111,18 +152,18 @@
 
 .sendButton {
   margin-left: 0.5rem;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 1.5rem;
   background-color: var(--primary-color);
   color: var(--white);
   border: none;
-  border-radius: var(--border-radius);
   font-size: 1rem;
   font-weight: 500;
   transition: background-color 0.2s;
+  text-transform: uppercase;
 }
 
 .sendButton:hover:not(:disabled) {
-  background-color: var(--secondary-color);
+  background-color: #8a2323;
 }
 
 .sendButton:disabled {
@@ -151,12 +192,16 @@
 
 @media (max-width: 768px) {
   .chatContainer {
-    margin: 1rem;
+    margin: 0;
     height: calc(100vh - 120px);
   }
   
   .messageContent {
     max-width: 90%;
+  }
+  
+  .logoText {
+    display: none;
   }
 }
 
@@ -226,7 +271,6 @@
 .markdown pre {
   background-color: rgba(0, 0, 0, 0.05);
   padding: 1rem;
-  border-radius: var(--border-radius);
   overflow-x: auto;
   margin-bottom: 1rem;
 }

@@ -1,3 +1,4 @@
+import React from 'react';
 import type { Metadata } from "next";
 import { Inter, Roboto_Mono } from "next/font/google";
 import "./globals.css";
@@ -14,8 +15,8 @@ const robotoMono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "OpenAI Assistant Chat",
-  description: "Chat interface for OpenAI Assistants API",
+  title: "Build Canada Policy Explorer",
+  description: "An interactive platform for exploring Canadian federal party policies",
 };
 
 export default function RootLayout({
