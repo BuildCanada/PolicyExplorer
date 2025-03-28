@@ -1,0 +1,25 @@
+---
+title: "Canada First Conservatives will make sure real criminals who do the crime, do the time."
+candidate: "Pierre Poilievre"
+date: 2025-03-28
+video_url: https://www.youtube.com/watch?v=4g2cOL8CLn0
+id: 4g2cOL8CLn0
+---
+
+# Canada First Conservatives will make sure real criminals who do the crime, do the time.
+
+**Candidate:** Pierre Poilievre
+**Date:** 2025-03-28
+**Source:** [YouTube Video](https://www.youtube.com/watch?v=4g2cOL8CLn0)
+
+## Transcript
+
+imagine being trapped enslaved by another person who forces you to do awful things a young woman coerced into a life of exploitation and abuse summoning immense courage she reports her traffickers believing justice will prevail yet shockingly they walk free this isn't just a story it's exactly what happened to a young woman in Barry Ontario in July of 2023 Loreston and Amber Maloney of ESSA Township already on trial for human trafficking were released from custody on bail but in December of 2024 they were rearrested for breaking the terms of bail what was their punishment bail again tragically this is not an isolated case it's happening across Canada and it's getting worse human trafficking is up 84% since 2015 calls to the human trafficking hotline are up 238% since 2019 the vast majority of the victims are tragically women and girls let's look at another issue ravaging our country gun crime you may have heard that Donald Trump says there's a problem at the border but the problem is in the other direction illegal guns are coming into Canada violent crime is up 50% since Carney Trudeau Liberals came to power and the Toronto Police Association has said that 85% of guns seized by their members can be sourced back to the United States but instead of stopping criminals liberals go after hunters sport shooters and law-abiding gun owners the real problem illegal guns remains completely unchecked in fact 99% of shipping containers come into Canada uninspected and much of it is done through organized crime rings that bring in massive shipments of illegal guns that take lives enough put in perspective more people have died to opioid overdoses in the last eight years than died for fighting for Canada in World War II again fentinel traffickers are mass murderers spreading these poisons in our streets often with impunity the good news is Canada doesn't have a lot of criminals the bad news is they are very productive liberal bill C5 eliminated mandatory minimum sentences for serious gun and drug crimes allowing violent criminals to walk free sooner bill C75 weakened Canada's bail system making it easier for offenders to be released back into the communities the Carne Trudeau Liberals also weakened several of Canada's human trafficking laws by making them hybrid offenses and drastically reducing the possible penalties for this horrific crime of human slavery enough i will always put public safety of Canadians first and ensure these monsters rot in jail forever common sense conservatives will stop the crime today I am announcing that a future Conservative government will impose life sentences for the most serious cases of fentinol trafficking gun smuggling and human trafficking specifically anyone convicted of five or more counts of human trafficking life sentence anyone convicted of importing or exporting 10 or more illegal firearms lock them up and throw away the key as I've previously announced anyone convicted of fentinyl trafficking on a large scale life sentences as well and we will go further we will end automatic bail for anyone charged with human trafficking we will also strengthen human trafficking laws so prosecutors do not have to prove that traffickers used fear or intimidation if you exploit or terrorize the innocent you will never walk free again no more weak sentences no more revolving door justice system no more liberal failures my message to those who are victims of these terrible crimes particularly the women who are entrapped by human trafficking is that you should have hope hang on help is on the way we will lock up the dangerous offenders who have put you in these awful circumstances and we will throw away the key what's more we will protect you and give you a chance at a better life and a brighter future we will also restore the promise of Canada for everyone that anyone from anywhere can achieve anything where hard work pays off with a beautiful home on a safe street protected by brave troops borders and police officers under our proud flag canada first for a change let's bring it home
+
+## Video Description
+
+We will stop the crime with mandatory life sentences for mass gun smuggling, human trafficking & fentanyl trafficking. 
+
+Canada First Conservatives will make sure real criminals who do the crime, do the time.
+
+Sign to stop the crime, for a change: https://www.conservative.ca/cpc/life-sentences-for-fentanyl-kingpins/
