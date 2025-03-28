@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import OpenAI from 'openai/index.mjs';
+import OpenAI from 'openai';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -7,6 +7,18 @@ const openai = new OpenAI({
 
 // Use your assistant ID from OpenAI dashboard
 const ASSISTANT_ID = process.env.OPENAI_ASSISTANT_ID;
+
+// Helper function to safely extract text content
+function extractTextContent(content: any) {
+  if (!content || !Array.isArray(content)) {
+    return "";
+  }
+  
+  return content
+    .filter(item => item.type === 'text')
+    .map(item => item.text?.value || "")
+    .join("\n\n");
+}
 
 // Create Thread endpoint
 export async function POST(request: NextRequest) {
@@ -59,7 +71,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({
         id: latestMessage.id,
         role: 'assistant',
-        content: latestMessage.content[0].text.value,
+        content: extractTextContent(latestMessage.content),
         createdAt: new Date(latestMessage.created_at * 1000),
       });
     }
@@ -92,7 +104,7 @@ export async function GET(request: NextRequest) {
       const formattedMessages = messages.data.map(msg => ({
         id: msg.id,
         role: msg.role,
-        content: msg.content[0].text.value,
+        content: extractTextContent(msg.content),
         createdAt: new Date(msg.created_at * 1000),
       }));
       
