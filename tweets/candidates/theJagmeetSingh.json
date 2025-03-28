@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "msg": "success",
+  "data": {
+    "id": "253340075",
+    "name": "Jagmeet Singh",
+    "userName": "theJagmeetSingh",
+    "location": "Canada",
+    "url": "https://t.co/vq9BwPxnbu",
+    "description": "Pronounced Jug(rhymes with hug)-MEET! | Leader of Canada's New Democratic Party | Le chef du NPD du Canada | Text me 👉🏽 613-801-8210",
+    "protected": false,
+    "isVerified": false,
+    "isBlueVerified": true,
+    "followers": 628397,
+    "following": 1366,
+    "favouritesCount": 2680,
+    "statusesCount": 18699,
+    "mediaCount": 4745,
+    "createdAt": "2011-02-17T01:38:20.000000Z",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/253340075/1742765486",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1831701702518697984/uwSL-n9T_normal.jpg",
+    "canDm": true,
+    "isAutomated": false,
+    "automatedBy": null
+  }
+}

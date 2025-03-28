@@ -1,0 +1,2536 @@
+{
+  "status": "success",
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "pin_tweet": null,
+    "tweets": [
+      {
+        "type": "tweet",
+        "id": "1879611974478377307",
+        "url": "https://x.com/PierrePoilievre/status/1879611974478377307",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879611974478377307",
+        "text": "More than 1,000 common sense Canadians in Powell River came out last night to send one message: \n\nCall an axe the tax election now to fire the NDP-Liberals and send their costly agenda packing. \n\nSign here to join them: https://t.co/HVc3qCG7ZX https://t.co/nS6Tylgltm",
+        "source": "Twitter for iPhone",
+        "retweetCount": 391,
+        "replyCount": 324,
+        "likeCount": 2297,
+        "quoteCount": 33,
+        "viewCount": 84970,
+        "createdAt": "Wed Jan 15 19:29:50 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 12,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879611974478377307",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/nS6Tylgltm",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879611974478377307/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 76,
+                      "w": 76,
+                      "x": 1490,
+                      "y": 326
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1870,
+                      "y": 566
+                    },
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 338,
+                      "y": 344
+                    },
+                    {
+                      "h": 100,
+                      "w": 100,
+                      "x": 754,
+                      "y": 412
+                    },
+                    {
+                      "h": 80,
+                      "w": 80,
+                      "x": 204,
+                      "y": 488
+                    },
+                    {
+                      "h": 100,
+                      "w": 100,
+                      "x": 118,
+                      "y": 356
+                    },
+                    {
+                      "h": 106,
+                      "w": 106,
+                      "x": 192,
+                      "y": 736
+                    },
+                    {
+                      "h": 138,
+                      "w": 138,
+                      "x": 1192,
+                      "y": 578
+                    },
+                    {
+                      "h": 134,
+                      "w": 134,
+                      "x": 716,
+                      "y": 652
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 76,
+                      "w": 76,
+                      "x": 1490,
+                      "y": 326
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 1870,
+                      "y": 566
+                    },
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 338,
+                      "y": 344
+                    },
+                    {
+                      "h": 100,
+                      "w": 100,
+                      "x": 754,
+                      "y": 412
+                    },
+                    {
+                      "h": 80,
+                      "w": 80,
+                      "x": 204,
+                      "y": 488
+                    },
+                    {
+                      "h": 100,
+                      "w": 100,
+                      "x": 118,
+                      "y": 356
+                    },
+                    {
+                      "h": 106,
+                      "w": 106,
+                      "x": 192,
+                      "y": 736
+                    },
+                    {
+                      "h": 138,
+                      "w": 138,
+                      "x": 1192,
+                      "y": 578
+                    },
+                    {
+                      "h": 134,
+                      "w": 134,
+                      "x": 716,
+                      "y": 652
+                    }
+                  ]
+                }
+              },
+              "id_str": "1879611701487669248",
+              "indices": [
+                244,
+                267
+              ],
+              "media_key": "3_1879611701487669248",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoVuOJG1xAACgACGhW5IdZasVsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhW44kbXEAAKAAIaFbkh1lqxWwAA",
+                  "media_key": "3_1879611701487669248"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhW44kbXEAA2osR.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1147,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 193
+                  },
+                  {
+                    "h": 1340,
+                    "w": 1340,
+                    "x": 98,
+                    "y": 0
+                  },
+                  {
+                    "h": 1340,
+                    "w": 1175,
+                    "x": 181,
+                    "y": 0
+                  },
+                  {
+                    "h": 1340,
+                    "w": 670,
+                    "x": 433,
+                    "y": 0
+                  },
+                  {
+                    "h": 1340,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1340,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 1340,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/nS6Tylgltm"
+            },
+            {
+              "display_url": "pic.twitter.com/nS6Tylgltm",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879611974478377307/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 628,
+                      "y": 2
+                    },
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 684,
+                      "y": 92
+                    },
+                    {
+                      "h": 84,
+                      "w": 84,
+                      "x": 938,
+                      "y": 180
+                    },
+                    {
+                      "h": 88,
+                      "w": 88,
+                      "x": 1068,
+                      "y": 246
+                    },
+                    {
+                      "h": 76,
+                      "w": 76,
+                      "x": 80,
+                      "y": 64
+                    },
+                    {
+                      "h": 92,
+                      "w": 92,
+                      "x": 568,
+                      "y": 98
+                    },
+                    {
+                      "h": 92,
+                      "w": 92,
+                      "x": 998,
+                      "y": 166
+                    },
+                    {
+                      "h": 80,
+                      "w": 80,
+                      "x": 1144,
+                      "y": 212
+                    },
+                    {
+                      "h": 104,
+                      "w": 104,
+                      "x": 830,
+                      "y": 184
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 628,
+                      "y": 2
+                    },
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 684,
+                      "y": 92
+                    },
+                    {
+                      "h": 84,
+                      "w": 84,
+                      "x": 938,
+                      "y": 180
+                    },
+                    {
+                      "h": 88,
+                      "w": 88,
+                      "x": 1068,
+                      "y": 246
+                    },
+                    {
+                      "h": 76,
+                      "w": 76,
+                      "x": 80,
+                      "y": 64
+                    },
+                    {
+                      "h": 92,
+                      "w": 92,
+                      "x": 568,
+                      "y": 98
+                    },
+                    {
+                      "h": 92,
+                      "w": 92,
+                      "x": 998,
+                      "y": 166
+                    },
+                    {
+                      "h": 80,
+                      "w": 80,
+                      "x": 1144,
+                      "y": 212
+                    },
+                    {
+                      "h": 104,
+                      "w": 104,
+                      "x": 830,
+                      "y": 184
+                    }
+                  ]
+                }
+              },
+              "id_str": "1879611701487607808",
+              "indices": [
+                244,
+                267
+              ],
+              "media_key": "3_1879611701487607808",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoVuOJG1iAACgACGhW5IdZasVsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhW44kbWIAAKAAIaFbkh1lqxWwAA",
+                  "media_key": "3_1879611701487607808"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhW44kbWIAAq1GH.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1147,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1325,
+                    "w": 1325,
+                    "x": 3,
+                    "y": 0
+                  },
+                  {
+                    "h": 1325,
+                    "w": 1162,
+                    "x": 84,
+                    "y": 0
+                  },
+                  {
+                    "h": 1325,
+                    "w": 663,
+                    "x": 334,
+                    "y": 0
+                  },
+                  {
+                    "h": 1325,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1325,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 1325,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/nS6Tylgltm"
+            },
+            {
+              "display_url": "pic.twitter.com/nS6Tylgltm",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879611974478377307/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    }
+                  ]
+                },
+                "large": {},
+                "orig": {}
+              },
+              "id_str": "1879611701491793920",
+              "indices": [
+                244,
+                267
+              ],
+              "media_key": "3_1879611701491793920",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoVuOJHFgAACgACGhW5IdZasVsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhW44kcWAAAKAAIaFbkh1lqxWwAA",
+                  "media_key": "3_1879611701491793920"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhW44kcWAAAjuv4.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1147,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1378,
+                    "w": 1378,
+                    "x": 181,
+                    "y": 0
+                  },
+                  {
+                    "h": 1378,
+                    "w": 1209,
+                    "x": 266,
+                    "y": 0
+                  },
+                  {
+                    "h": 1378,
+                    "w": 689,
+                    "x": 526,
+                    "y": 0
+                  },
+                  {
+                    "h": 1378,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1378,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 1378,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/nS6Tylgltm"
+            },
+            {
+              "display_url": "pic.twitter.com/nS6Tylgltm",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879611974478377307/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    },
+                    {
+                      "name": "Aaron Gunn",
+                      "screen_name": "AaronGunn",
+                      "type": "user",
+                      "user_id": "316747927"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 138,
+                      "w": 138,
+                      "x": 248,
+                      "y": 154
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 276,
+                      "w": 276,
+                      "x": 496,
+                      "y": 308
+                    }
+                  ]
+                }
+              },
+              "id_str": "1879611738598920192",
+              "indices": [
+                244,
+                267
+              ],
+              "media_key": "3_1879611738598920192",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoVuOrq19AACgACGhW5IdZasVsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhW46urX0AAKAAIaFbkh1lqxWwAA",
+                  "media_key": "3_1879611738598920192"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhW46urX0AAj4Q2.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 2294,
+                    "w": 4096,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2322,
+                    "w": 2322,
+                    "x": 784,
+                    "y": 0
+                  },
+                  {
+                    "h": 2322,
+                    "w": 2037,
+                    "x": 927,
+                    "y": 0
+                  },
+                  {
+                    "h": 2322,
+                    "w": 1161,
+                    "x": 1365,
+                    "y": 0
+                  },
+                  {
+                    "h": 2322,
+                    "w": 4096,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2322,
+                "width": 4096
+              },
+              "sizes": {
+                "large": {
+                  "h": 1161,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/nS6Tylgltm"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "conservative.ca/cpc/call-for-a…",
+              "expanded_url": "https://conservative.ca/cpc/call-for-a-carbon-tax-election-now/",
+              "indices": [
+                220,
+                243
+              ],
+              "url": "https://t.co/HVc3qCG7ZX"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1879610189177086325",
+        "url": "https://x.com/PierrePoilievre/status/1879610189177086325",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879610189177086325",
+        "text": "RT @Ryan_r_Williams: While Mark Carney and Justin Trudeau are doing late night shows in the USA, talking to American voters (who can’t vote…",
+        "source": "Twitter for iPhone",
+        "retweetCount": 448,
+        "replyCount": 580,
+        "likeCount": 1969,
+        "quoteCount": 41,
+        "viewCount": 135955,
+        "createdAt": "Wed Jan 15 19:22:45 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 17,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879610189177086325",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "21950224",
+              "indices": [
+                3,
+                19
+              ],
+              "name": "Ryan Williams",
+              "screen_name": "Ryan_r_Williams"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1879197662614020209",
+          "url": "https://x.com/Ryan_r_Williams/status/1879197662614020209",
+          "twitterUrl": "https://twitter.com/Ryan_r_Williams/status/1879197662614020209",
+          "text": "While Mark Carney and Justin Trudeau are doing late night shows in the USA, talking to American voters (who can’t vote for them)\n\n@PierrePoilievre is in Canada - talking to Canadian voters (and even skidooing) \n\nWhom do you want to see as your Prime Minister? #cdnpoli",
+          "source": "Twitter for iPhone",
+          "retweetCount": 448,
+          "replyCount": 580,
+          "likeCount": 1969,
+          "quoteCount": 41,
+          "viewCount": 135955,
+          "createdAt": "Tue Jan 14 16:03:31 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 17,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1879197662614020209",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "Ryan_r_Williams",
+            "url": "https://x.com/Ryan_r_Williams",
+            "twitterUrl": "https://twitter.com/Ryan_r_Williams",
+            "id": "21950224",
+            "name": "Ryan Williams",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1903875117375188992/VLcS8Qpi_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/21950224/1742754186",
+            "description": "",
+            "location": "Belleville Ontario",
+            "followers": 15971,
+            "following": 8105,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Thu Feb 26 01:09:01 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 11379,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 3571,
+            "statusesCount": 25486,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1872420922092933206"
+            ],
+            "profile_bio": {
+              "description": "Ryan Williams is the federal Conservative Candidate for the Bay of Quinte #bayofquinte 🇨🇦",
+              "entities": {
+                "description": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        74,
+                        86
+                      ],
+                      "text": "bayofquinte"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "votewilliams.ca",
+                      "expanded_url": "http://votewilliams.ca",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/JbYXNJ3BUO"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  260,
+                  268
+                ],
+                "text": "cdnpoli"
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "242827267",
+                "indices": [
+                  130,
+                  146
+                ],
+                "name": "Pierre Poilievre",
+                "screen_name": "PierrePoilievre"
+              }
+            ]
+          },
+          "quoted_tweet": {
+            "type": "tweet",
+            "id": "1878914787645772012",
+            "url": "https://x.com/PierrePoilievre/status/1878914787645772012",
+            "twitterUrl": "https://twitter.com/PierrePoilievre/status/1878914787645772012",
+            "text": "En skidoo, à travers le Saguenay, on traverse des paysages à couper le souffle, entourés de gens déterminés à défendre ce pays dont nous sommes si fiers.\n\nRamenons le gros bon sens, chez nous. https://t.co/KFyKU2NAO8",
+            "source": "Twitter for iPhone",
+            "retweetCount": 149,
+            "replyCount": 160,
+            "likeCount": 1539,
+            "quoteCount": 28,
+            "viewCount": 183717,
+            "createdAt": "Mon Jan 13 21:19:28 +0000 2025",
+            "lang": "fr",
+            "bookmarkCount": 18,
+            "isReply": false,
+            "inReplyToId": null,
+            "conversationId": "1878914787645772012",
+            "inReplyToUserId": null,
+            "inReplyToUsername": null,
+            "author": {
+              "type": "user",
+              "userName": "PierrePoilievre",
+              "url": "https://x.com/PierrePoilievre",
+              "twitterUrl": "https://twitter.com/PierrePoilievre",
+              "id": "242827267",
+              "name": "Pierre Poilievre",
+              "isVerified": false,
+              "isBlueVerified": true,
+              "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+              "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+              "description": "",
+              "location": "Ottawa, Ontario",
+              "followers": 1451870,
+              "following": 1172,
+              "status": "",
+              "canDm": false,
+              "canMediaTag": true,
+              "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 1367,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "mediaCount": 8325,
+              "statusesCount": 20184,
+              "withheldInCountries": [],
+              "affiliatesHighlightedLabel": {},
+              "possiblySensitive": false,
+              "pinnedTweetIds": [],
+              "profile_bio": {
+                "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+                "entities": {
+                  "description": {
+                    "user_mentions": [
+                      {
+                        "id_str": "0",
+                        "indices": [
+                          17,
+                          24
+                        ],
+                        "name": "",
+                        "screen_name": "CPC_HQ"
+                      },
+                      {
+                        "id_str": "0",
+                        "indices": [
+                          102,
+                          109
+                        ],
+                        "name": "",
+                        "screen_name": "PCC_HQ"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "conservative.ca",
+                        "expanded_url": "https://conservative.ca",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/5e9ZR0g1Dk"
+                      }
+                    ]
+                  }
+                }
+              },
+              "isAutomated": false,
+              "automatedBy": null
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additional_media_info": {
+                    "monetizable": false
+                  },
+                  "display_url": "pic.twitter.com/KFyKU2NAO8",
+                  "expanded_url": "https://twitter.com/PierrePoilievre/status/1878914787645772012/video/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "id_str": "1878914380827398144",
+                  "indices": [
+                    193,
+                    216
+                  ],
+                  "media_key": "7_1878914380827398144",
+                  "media_results": {
+                    "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARoTPqyolxAACgACGhM/C2Da0OwAAA==",
+                    "result": {
+                      "__typename": "ApiMedia",
+                      "id": "QXBpTWVkaWE6DAADCgABGhM+rKiXEAAKAAIaEz8LYNrQ7AAA",
+                      "media_key": "7_1878914380827398144"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1878914380827398144/pu/img/47ry3MaCUAQGundu.jpg",
+                  "original_info": {
+                    "focus_rects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "w": 1920
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/KFyKU2NAO8",
+                  "video_info": {
+                    "aspect_ratio": [
+                      16,
+                      9
+                    ],
+                    "duration_millis": 54854,
+                    "variants": [
+                      {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1878914380827398144/pu/pl/24FSp2lfBLnJBU_P.m3u8?tag=12&v=7d8"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1878914380827398144/pu/vid/avc1/480x270/itzVUqdTBkAArzlD.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1878914380827398144/pu/vid/avc1/640x360/N4Flm1kBdwF19gD_.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1878914380827398144/pu/vid/avc1/1280x720/WrPpY0y23jTEIXcg.mp4?tag=12"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "card": null,
+            "place": {},
+            "entities": {},
+            "quoted_tweet": null,
+            "retweeted_tweet": null
+          },
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "1879603927597072769",
+        "url": "https://x.com/PierrePoilievre/status/1879603927597072769",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879603927597072769",
+        "text": "« En réplique à St-Pierre Plamondon, Poilievre promet un « fédéralisme responsable » »\n\nhttps://t.co/ZWHwdsp70s https://t.co/AhxgD3MGAP",
+        "source": "Twitter for iPhone",
+        "retweetCount": 45,
+        "replyCount": 64,
+        "likeCount": 356,
+        "quoteCount": 4,
+        "viewCount": 36742,
+        "createdAt": "Wed Jan 15 18:57:52 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 3,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879603927597072769",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/AhxgD3MGAP",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879603927597072769/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 184,
+                      "w": 184,
+                      "x": 407,
+                      "y": 309
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 184,
+                      "w": 184,
+                      "x": 407,
+                      "y": 309
+                    }
+                  ]
+                }
+              },
+              "id_str": "1879603805085487104",
+              "indices": [
+                112,
+                135
+              ],
+              "media_key": "3_1879603805085487104",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoVsbPAl9AACgACGhWx0EbaQYEAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhWxs8CX0AAKAAIaFbHQRtpBgQAA",
+                  "media_key": "3_1879603805085487104"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhWxs8CX0AARxBM.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 473
+                  },
+                  {
+                    "h": 1078,
+                    "w": 1078,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1078,
+                    "w": 946,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1078,
+                    "w": 539,
+                    "x": 28,
+                    "y": 0
+                  },
+                  {
+                    "h": 1078,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1078,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1078,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/AhxgD3MGAP"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "lp.ca/hWdVIw?sharing…",
+              "expanded_url": "https://lp.ca/hWdVIw?sharing=true",
+              "indices": [
+                88,
+                111
+              ],
+              "url": "https://t.co/ZWHwdsp70s"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1879601595773751377",
+        "url": "https://x.com/PierrePoilievre/status/1879601595773751377",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879601595773751377",
+        "text": "It's 1:48 pm on Jan 15, 2025, and Mark Carney is still on the Liberal Party website as an advisor to the Trudeau Liberals. \n\nHe's Just Like Justin. https://t.co/ngclt0tWKd",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1521,
+        "replyCount": 673,
+        "likeCount": 5784,
+        "quoteCount": 75,
+        "viewCount": 123495,
+        "createdAt": "Wed Jan 15 18:48:36 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 71,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879601595773751377",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/ngclt0tWKd",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879601595773751377/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {},
+                "orig": {}
+              },
+              "id_str": "1879601307972984832",
+              "indices": [
+                148,
+                171
+              ],
+              "media_key": "3_1879601307972984832",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoVr25ZFuAACgACGhWvsVtaEFEAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhWvblkW4AAKAAIaFa+xW1oQUQAA",
+                  "media_key": "3_1879601307972984832"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhWvblkW4AAn9cv.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 103
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1080,
+                    "w": 947,
+                    "x": 94,
+                    "y": 0
+                  },
+                  {
+                    "h": 1080,
+                    "w": 540,
+                    "x": 297,
+                    "y": 0
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1080,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/ngclt0tWKd"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1879597320276516988",
+        "url": "https://x.com/PierrePoilievre/status/1879597320276516988",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879597320276516988",
+        "text": "RT @AndrewScheer: Why does everyone call Mark Carney “Carbon Tax Carney”?\n\nHe LOVES the carbon tax. \n\nHere’s what he wrote in his terrible…",
+        "source": "Twitter for iPhone",
+        "retweetCount": 732,
+        "replyCount": 575,
+        "likeCount": 2991,
+        "quoteCount": 62,
+        "viewCount": 158508,
+        "createdAt": "Wed Jan 15 18:31:37 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 25,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879597320276516988",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "256360738",
+              "indices": [
+                3,
+                16
+              ],
+              "name": "Andrew Scheer",
+              "screen_name": "AndrewScheer"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1879266151177617433",
+          "url": "https://x.com/AndrewScheer/status/1879266151177617433",
+          "twitterUrl": "https://twitter.com/AndrewScheer/status/1879266151177617433",
+          "text": "Why does everyone call Mark Carney “Carbon Tax Carney”?\n\nHe LOVES the carbon tax. \n\nHere’s what he wrote in his terrible book:\n\n“One of the most important initiatives is carbon pricing...The Canadian federal carbon pricing framework is a model for others.” \n\nHe’s just like Justin",
+          "source": "Twitter for iPhone",
+          "retweetCount": 732,
+          "replyCount": 575,
+          "likeCount": 2991,
+          "quoteCount": 62,
+          "viewCount": 158508,
+          "createdAt": "Tue Jan 14 20:35:40 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 25,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1879266151177617433",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "AndrewScheer",
+            "url": "https://x.com/AndrewScheer",
+            "twitterUrl": "https://twitter.com/AndrewScheer",
+            "id": "256360738",
+            "name": "Andrew Scheer",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1187874552145166336/noscjeU8_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/256360738/1597761401",
+            "description": "",
+            "location": "Canada",
+            "followers": 251660,
+            "following": 558,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Wed Feb 23 04:52:31 +0000 2011",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 1019,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 8046,
+            "statusesCount": 17432,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1904563410198470906"
+            ],
+            "profile_bio": {
+              "description": "Regina—Qu'Appelle MP. 2nd Conservative Party Leader and 35th HOC Speaker. Principled Conservative. Defender of economic freedom and human rights.",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "andrewscheer.com",
+                      "expanded_url": "https://www.andrewscheer.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/4X3LsnRuJq"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "",
+        "url": "",
+        "twitterUrl": "",
+        "text": "",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "viewCount": 0,
+        "createdAt": "",
+        "lang": "",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {},
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1879532010793992692",
+        "url": "https://x.com/PierrePoilievre/status/1879532010793992692",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879532010793992692",
+        "text": "Stop the clown show. \n\nCall an axe the tax election NOW: https://t.co/HVc3qCG7ZX https://t.co/0IBxXaL8xc",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1472,
+        "replyCount": 951,
+        "likeCount": 8912,
+        "quoteCount": 140,
+        "viewCount": 244699,
+        "createdAt": "Wed Jan 15 14:12:06 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 115,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879532010793992692",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/0IBxXaL8xc",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879532010793992692/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 118,
+                      "w": 118,
+                      "x": 1387,
+                      "y": 114
+                    },
+                    {
+                      "h": 134,
+                      "w": 134,
+                      "x": 228,
+                      "y": 448
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 118,
+                      "w": 118,
+                      "x": 1387,
+                      "y": 114
+                    },
+                    {
+                      "h": 134,
+                      "w": 134,
+                      "x": 228,
+                      "y": 448
+                    }
+                  ]
+                }
+              },
+              "id_str": "1879531957597421568",
+              "indices": [
+                81,
+                104
+              ],
+              "media_key": "3_1879531957597421568",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoVcFt0lsAACgACGhVwZ9daAfQAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhVwW3SWwAAKAAIaFXBn11oB9AAA",
+                  "media_key": "3_1879531957597421568"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhVwW3SWwAAxErT.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 893,
+                    "w": 1595,
+                    "x": 0,
+                    "y": 394
+                  },
+                  {
+                    "h": 1595,
+                    "w": 1595,
+                    "x": 0,
+                    "y": 5
+                  },
+                  {
+                    "h": 1600,
+                    "w": 1404,
+                    "x": 191,
+                    "y": 0
+                  },
+                  {
+                    "h": 1600,
+                    "w": 800,
+                    "x": 795,
+                    "y": 0
+                  },
+                  {
+                    "h": 1600,
+                    "w": 1595,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1600,
+                "width": 1595
+              },
+              "sizes": {
+                "large": {
+                  "h": 1600,
+                  "w": 1595
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/0IBxXaL8xc"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "conservative.ca/cpc/call-for-a…",
+              "expanded_url": "https://conservative.ca/cpc/call-for-a-carbon-tax-election-now/",
+              "indices": [
+                57,
+                80
+              ],
+              "url": "https://t.co/HVc3qCG7ZX"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1879512630664011834",
+        "url": "https://x.com/PierrePoilievre/status/1879512630664011834",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879512630664011834",
+        "text": "“Speaking about related energy policy, the Conservative leader said his plan is to speed up and green-light natural gas projects including liquefied natural gas, saying B.C. would see the benefit from export business and be able to ship more quickly than U.S. Gulf Coast ports.”\n\nSign to bring home 🇨🇦 energy projects and create powerful paycheques for our people: https://t.co/N9NpgaUEMY\n\nhttps://t.co/w5PkMAT5EK",
+        "source": "Twitter for iPhone",
+        "retweetCount": 400,
+        "replyCount": 195,
+        "likeCount": 1818,
+        "quoteCount": 15,
+        "viewCount": 64755,
+        "createdAt": "Wed Jan 15 12:55:05 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 11,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879512630664011834",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/xgRtQHrwwg",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879512630664011834/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {},
+                "orig": {}
+              },
+              "id_str": "1879512626465488896",
+              "indices": [
+                280,
+                303
+              ],
+              "media_key": "3_1879512626465488896",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoVXsaTVkAACgACGhVex42WoDoAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhVexpNWQAAKAAIaFV7HjZagOgAA",
+                  "media_key": "3_1879512626465488896"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhVexpNWQAAyL6g.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 655,
+                    "w": 1170,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1170,
+                    "w": 1170,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1334,
+                    "w": 1170,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1840,
+                    "w": 920,
+                    "x": 230,
+                    "y": 0
+                  },
+                  {
+                    "h": 1840,
+                    "w": 1170,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1840,
+                "width": 1170
+              },
+              "sizes": {
+                "large": {
+                  "h": 1840,
+                  "w": 1170
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/xgRtQHrwwg"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "conservative.ca/cpc/lng/",
+              "expanded_url": "https://www.conservative.ca/cpc/lng/",
+              "indices": [
+                365,
+                388
+              ],
+              "url": "https://t.co/N9NpgaUEMY"
+            },
+            {
+              "display_url": "nanaimobulletin.com/local-news/con…",
+              "expanded_url": "https://www.nanaimobulletin.com/local-news/conservative-leader-poilievre-visits-island-says-carbon-tax-hurting-business-7758353",
+              "indices": [
+                390,
+                413
+              ],
+              "url": "https://t.co/w5PkMAT5EK"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1879468822274650406",
+        "url": "https://x.com/PierrePoilievre/status/1879468822274650406",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879468822274650406",
+        "text": "Mon message pour M. St-Pierre Plamondon:\n\nJustin Trudeau n'est pas le Canada. \n\nLes conservateurs remplaceront le régime libéral par un gouvernement fédéral de gros bon sens qui se mêlera de ses affaires et respectera l'autonomie des provinces. \n\nEt les Québécois en seront gagnants.\n\nLisez le texte ici:\n——\nMonsieur St-Pierre Plamondon, \n\nJe vais rectifier une confusion : Justin Trudeau n’est pas le Canada. \n\nLe problème n’est pas « le régime canadien ». C’est le régime woke et libéral que les Canadiens rejettent.\n\nVous m’accusez d’avoir « gardé le silence » sur l’immigration illégale au chemin Roxham, « tant que ça concernait seulement le Québec ». C’est faux.\n\nEn 2018, j’ai interpellé le gouvernement sur les passages illégaux au chemin Roxham en comité parlementaire et dénoncé Justin Trudeau qui accusait les Québécois inquiets d’être racistes.\n\nDurant ma course à la chefferie, je me suis opposé aux entrées illégales par le chemin Roxham. En février 2023, j’ai même donné un ultimatum de 30 jours à Justin Trudeau pour exiger sa fermeture. Un mois plus tard, il a été fermé. \n\nVous affirmez que j’ai l’intention de financer des projets de pipeline dans l’Ouest canadien avec l’argent des Québécois. Encore une fois, c’est faux. \n\nJe vais mettre fin au BS corporatif dans tous les secteurs. Depuis mai 2018, je m’oppose aux subventions fédérales pour le pipeline Trans Mountain, et ma position n’a jamais changé. Ces projets doivent être financés par des entreprises privées, pas avec l’argent des Canadiens. \n\nVous me reprochez de créer de « l’instabilité » en refusant de financer le tramway à Québec. Mais contrairement à vous, j’écoute les gens de Québec qui rejettent ce projet. Je préfère investir dans un troisième lien, un projet important que vous avez méprisé en le qualifiant de « niochon ». \n\nD’ailleurs, vous devriez parler au chef de votre succursale à Ottawa, Yves-François Blanchet, qui défend exactement le contraire de ce que vous dénoncez.\n\nEn juillet, le chef du Bloc s’opposait à la volonté du gouvernement du Québec de réduire le nombre d’étudiants étrangers, une position que vous soutenez dans votre plan en immigration. \n\nLe chef du Bloc a aussi voté plusieurs fois pour les crédits budgétaires du Lieutenant-Gouverneur du Québec, un poste que vous voulez abolir. \n\nLe Bloc vote constamment avec les libéraux pour augmenter les dépenses et la taille du gouvernement fédéral, sans bénéfice pour les Québécois.\n\nJe ne suis pas là pour défendre les intérêts d’une région au profit d’une autre. Je suis là pour restaurer la promesse du Canada pour que tous ceux qui travaillent fort puissent gagner un bon salaire, s’acheter une maison abordable et fonder une famille dans un quartier sécuritaire.\n\nJe vais réduire les seuils d’immigration pour régler la crise du logement. Je vais abolir la TPS sur les nouvelles maisons pour accélérer la construction et aider les jeunes familles à accéder à la propriété. Je vais couper le BS corporatif, la bureaucratie et les consultants pour réduire le déficit. Je vais baisser les taxes et les impôts pour augmenter le pouvoir d’achat des Québécois. \n\nVous avez peur qu’un gouvernement conservateur respecte l’autonomie du Québec parce que ça nuirait à vos arguments en faveur de la souveraineté.\n\nSous Stephen Harper, le Québec était respecté, l’immigration était sous contrôle et le gouvernement fédéral se mêlait de ses affaires. Mon gouvernement adoptera un fédéralisme responsable en suivant ces principes. \n\nLes Québécois seront gagnants.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 473,
+        "replyCount": 266,
+        "likeCount": 2577,
+        "quoteCount": 103,
+        "viewCount": 389511,
+        "createdAt": "Wed Jan 15 10:01:00 +0000 2025",
+        "lang": "fr",
+        "bookmarkCount": 106,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879468822274650406",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1879321156609528292",
+        "url": "https://x.com/PierrePoilievre/status/1879321156609528292",
+        "twitterUrl": "https://twitter.com/PierrePoilievre/status/1879321156609528292",
+        "text": "“In the leadership race to replace him, Justin Trudeau is all but laying his hands upon [Carbon Tax] Carney.\n\nFormer top advisor Gerald Butts is part of Carney’s campaign team while others close to Trudeau, including Trudeau’s chief of staff Katie Telford, are making calls on Carney’s behalf.”\n\nJust. Like. Justin.\n\nhttps://t.co/odfWFYu0Yt",
+        "source": "Twitter for iPhone",
+        "retweetCount": 651,
+        "replyCount": 589,
+        "likeCount": 2588,
+        "quoteCount": 62,
+        "viewCount": 119447,
+        "createdAt": "Wed Jan 15 00:14:14 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 21,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1879321156609528292",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "PierrePoilievre",
+          "url": "https://x.com/PierrePoilievre",
+          "twitterUrl": "https://twitter.com/PierrePoilievre",
+          "id": "242827267",
+          "name": "Pierre Poilievre",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748463953921908736/LJ6FRhHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/242827267/1740673515",
+          "description": "",
+          "location": "Ottawa, Ontario",
+          "followers": 1451870,
+          "following": 1172,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Jan 25 17:55:39 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1367,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8325,
+          "statusesCount": 20184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "MP for Carleton, @CPC_HQ leader, running to be Prime Minister of Canada - Député de Carleton, chef du @PCC_HQ, candidat au poste de premier ministre du Canada",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      17,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "CPC_HQ"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      102,
+                      109
+                    ],
+                    "name": "",
+                    "screen_name": "PCC_HQ"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "conservative.ca",
+                    "expanded_url": "https://conservative.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5e9ZR0g1Dk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/sPQkwGcyoi",
+              "expanded_url": "https://twitter.com/PierrePoilievre/status/1879321156609528292/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 199,
+                      "w": 199,
+                      "x": 297,
+                      "y": 851
+                    },
+                    {
+                      "h": 222,
+                      "w": 222,
+                      "x": 578,
+                      "y": 831
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 199,
+                      "w": 199,
+                      "x": 297,
+                      "y": 851
+                    },
+                    {
+                      "h": 222,
+                      "w": 222,
+                      "x": 578,
+                      "y": 831
+                    }
+                  ]
+                }
+              },
+              "id_str": "1879321148984262656",
+              "indices": [
+                278,
+                301
+              ],
+              "media_key": "3_1879321148984262656",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARoUsKDAFgAACgACGhSwooaWUeQAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGhSwoMAWAAAKAAIaFLCihpZR5AAA",
+                  "media_key": "3_1879321148984262656"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GhSwoMAWAAAhArd.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 1
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1231,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 675,
+                    "x": 304,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1350,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1350,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/sPQkwGcyoi"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "torontosun.com/opinion/column…",
+              "expanded_url": "https://torontosun.com/opinion/columnists/trudeaus-team-goes-all-in-on-carney-clark-implodes",
+              "indices": [
+                317,
+                340
+              ],
+              "url": "https://t.co/odfWFYu0Yt"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      }
+    ]
+  },
+  "has_next_page": true,
+  "next_cursor": "DAABCgABGnBD0i4__GAKAAIaFLCihpZR5AgAAwAAAAIAAA"
+}

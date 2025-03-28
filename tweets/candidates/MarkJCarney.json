@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "msg": "success",
+  "data": {
+    "id": "192272849",
+    "name": "Mark Carney",
+    "userName": "MarkJCarney",
+    "location": "Ottawa, Canada",
+    "url": "https://t.co/wN083ppBrC",
+    "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+    "protected": false,
+    "isVerified": false,
+    "isBlueVerified": true,
+    "followers": 331529,
+    "following": 674,
+    "favouritesCount": 564,
+    "statusesCount": 1529,
+    "mediaCount": 615,
+    "createdAt": "2010-09-18T17:26:00.000000Z",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+    "canDm": false,
+    "isAutomated": false,
+    "automatedBy": null
+  }
+}

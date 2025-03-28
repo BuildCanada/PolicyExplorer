@@ -1,0 +1,87 @@
+:root {
+  --primary-color: #a32a2a; /* Build Canada red */
+  --secondary-color: #25a5a0; /* Build Canada teal */
+  --background-color: #f7f3ed; /* Cream/beige background */
+  --text-color: #1d1d1d;
+  --light-text: #666666;
+  --white: #ffffff;
+  --error: #d32f2f;
+  --success: #2e7d32;
+  --warning: #f9a825;
+  --border-radius: 0px; /* Remove rounded corners for a cleaner look */
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --grid-line: 1px solid rgba(0, 0, 0, 0.1); /* Grid line style */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  height: 100%;
+  width: 100%;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+main {
+  flex: 1;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  text-align: center;
+  color: var(--light-text);
+  font-size: 0.875rem;
+  border-top: var(--grid-line);
+}

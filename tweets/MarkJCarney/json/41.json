@@ -1,0 +1,5293 @@
+{
+  "status": "success",
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "pin_tweet": {
+      "type": "tweet",
+      "id": "1898878068313260241",
+      "url": "https://x.com/MarkJCarney/status/1898878068313260241",
+      "twitterUrl": "https://twitter.com/MarkJCarney/status/1898878068313260241",
+      "text": "Thank you.\n\nWe're strongest when we are united. https://t.co/H9RPrJNf4Y",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2612,
+      "replyCount": 7775,
+      "likeCount": 26406,
+      "quoteCount": 416,
+      "viewCount": 1734982,
+      "createdAt": "Sun Mar 09 23:26:25 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 322,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1898878068313260241",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "MarkJCarney",
+        "url": "https://x.com/MarkJCarney",
+        "twitterUrl": "https://twitter.com/MarkJCarney",
+        "id": "192272849",
+        "name": "Mark Carney",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+        "description": "",
+        "location": "Ottawa, Canada",
+        "followers": 331545,
+        "following": 674,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 564,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 616,
+        "statusesCount": 1530,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1898878068313260241"
+        ],
+        "profile_bio": {
+          "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "markcarney.ca",
+                  "expanded_url": "http://markcarney.ca",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/wN083ppBrC"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/H9RPrJNf4Y",
+            "expanded_url": "https://twitter.com/MarkJCarney/status/1898878068313260241/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1898877187937234944",
+            "indices": [
+              48,
+              71
+            ],
+            "media_key": "3_1898877187937234944",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARpaKr3jF3AACgACGlorit2XgNEAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGloqveMXcAAKAAIaWiuK3ZeA0QAA",
+                "media_key": "3_1898877187937234944"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GloqveMXcAAg1Go.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1360,
+                  "w": 2428,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 1618,
+                  "x": 810,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 1419,
+                  "x": 1009,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 809,
+                  "x": 1599,
+                  "y": 0
+                },
+                {
+                  "h": 1618,
+                  "w": 2428,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1618,
+              "width": 2428
+            },
+            "sizes": {
+              "large": {
+                "h": 1365,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/H9RPrJNf4Y"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    "tweets": [
+      {
+        "type": "tweet",
+        "id": "1807751246222184606",
+        "url": "https://x.com/MarkJCarney/status/1807751246222184606",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1807751246222184606",
+        "text": "What a joy to wake up here\nThe fortune of being born in a small 🇨🇦 town  \nGrowing up in a time of enormous opportunities\nThe challenges we face - we can solve\nTogether we can renew that spirit of boundless possibilities &amp; \nshape the next 🇨🇦 century\nIn the finest place in the 🌍 https://t.co/MXG6Hfay85",
+        "source": "Twitter for iPhone",
+        "retweetCount": 321,
+        "replyCount": 940,
+        "likeCount": 2236,
+        "quoteCount": 128,
+        "viewCount": 308164,
+        "createdAt": "Mon Jul 01 12:20:58 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 25,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1807751246222184606",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/MXG6Hfay85",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1807751246222184606/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {},
+                "orig": {}
+              },
+              "id_str": "1807751235480784896",
+              "indices": [
+                282,
+                305
+              ],
+              "media_key": "3_1807751235480784896",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkWbCu5GxAACgACGRZsLjlX0J4AAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGRZsK7kbEAAKAAIZFmwuOVfQngAA",
+                  "media_key": "3_1807751235480784896"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GRZsK7kbEAAw5XQ.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1129,
+                    "w": 2016,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1512,
+                    "w": 1512,
+                    "x": 504,
+                    "y": 0
+                  },
+                  {
+                    "h": 1512,
+                    "w": 1326,
+                    "x": 597,
+                    "y": 0
+                  },
+                  {
+                    "h": 1512,
+                    "w": 756,
+                    "x": 882,
+                    "y": 0
+                  },
+                  {
+                    "h": 1512,
+                    "w": 2016,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1512,
+                "width": 2016
+              },
+              "sizes": {
+                "large": {
+                  "h": 1512,
+                  "w": 2016
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/MXG6Hfay85"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1805438686009422064",
+        "url": "https://x.com/MarkJCarney/status/1805438686009422064",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1805438686009422064",
+        "text": "RT @NHL: A performance for the ages. 👏 \n\nWith an incredible 42 points in 25 #StanleyCup Playoffs games, Connor McDavid is your Conn Smythe…",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1721,
+        "replyCount": 1122,
+        "likeCount": 13409,
+        "quoteCount": 555,
+        "viewCount": 888782,
+        "createdAt": "Tue Jun 25 03:11:40 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 166,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1805438686009422064",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                76,
+                87
+              ],
+              "text": "StanleyCup"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "50004938",
+              "indices": [
+                3,
+                7
+              ],
+              "name": "NHL",
+              "screen_name": "NHL"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1805437577601671228",
+          "url": "https://x.com/NHL/status/1805437577601671228",
+          "twitterUrl": "https://twitter.com/NHL/status/1805437577601671228",
+          "text": "A performance for the ages. 👏 \n\nWith an incredible 42 points in 25 #StanleyCup Playoffs games, Connor McDavid is your Conn Smythe Trophy winner. https://t.co/P3qw9Pv7bE",
+          "source": "Twitter for iPhone",
+          "retweetCount": 1721,
+          "replyCount": 1122,
+          "likeCount": 13409,
+          "quoteCount": 555,
+          "viewCount": 888782,
+          "createdAt": "Tue Jun 25 03:07:16 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 166,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1805437577601671228",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "NHL",
+            "url": "https://x.com/NHL",
+            "twitterUrl": "https://twitter.com/NHL",
+            "id": "50004938",
+            "name": "NHL",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1896089560179695616/cbGWnIh5_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/50004938/1742964645",
+            "description": "",
+            "location": "32 cities across U.S. & Canada",
+            "followers": 7242072,
+            "following": 2134,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Tue Jun 23 15:24:18 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 6821,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 107055,
+            "statusesCount": 264142,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1904915052643123505"
+            ],
+            "profile_bio": {
+              "description": "Your home for hockey. \n\n🔄: @NHLGIFs\n🏆: @StanleyCup\n🗣️: @NHLPR\n📈: @NHLFantasy\n📺: @espn, @NHL_On_TNT, @SportsOnPrimeCA, @Sportsnet, @NHLNetwork",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        27,
+                        35
+                      ],
+                      "name": "",
+                      "screen_name": "NHLGIFs"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        39,
+                        50
+                      ],
+                      "name": "",
+                      "screen_name": "StanleyCup"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        55,
+                        61
+                      ],
+                      "name": "",
+                      "screen_name": "NHLPR"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        65,
+                        76
+                      ],
+                      "name": "",
+                      "screen_name": "NHLFantasy"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        80,
+                        85
+                      ],
+                      "name": "",
+                      "screen_name": "espn"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        87,
+                        98
+                      ],
+                      "name": "",
+                      "screen_name": "NHL_On_TNT"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        100,
+                        116
+                      ],
+                      "name": "",
+                      "screen_name": "SportsOnPrimeCA"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        118,
+                        128
+                      ],
+                      "name": "",
+                      "screen_name": "Sportsnet"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        130,
+                        141
+                      ],
+                      "name": "",
+                      "screen_name": "NHLNetwork"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "NHL.com/Vote",
+                      "expanded_url": "http://NHL.com/Vote",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/R4JhEVmk4j"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/P3qw9Pv7bE",
+                "expanded_url": "https://twitter.com/NHL/status/1805437577601671228/photo/1",
+                "ext_alt_text": "Top: Three cutouts of Connor McDavid during game action in an Edmonton Oilers uniform. To the left is the Edmonton Oilers 2024 Stanley Cup Playoffs logo. Below that in white and orange text on a blue background, \"Connor McDavid, Edmonton Oilers #97. Playoffs MVP\" \n\nBottom left: In blue text on a white background, \"Conn Smythe Trophy\". Below that is the Conn Smythe Trophy. ",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 125,
+                        "w": 125,
+                        "x": 43,
+                        "y": 17
+                      },
+                      {
+                        "h": 341,
+                        "w": 341,
+                        "x": 779,
+                        "y": 263
+                      },
+                      {
+                        "h": 583,
+                        "w": 583,
+                        "x": 452,
+                        "y": 121
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 125,
+                        "w": 125,
+                        "x": 43,
+                        "y": 17
+                      },
+                      {
+                        "h": 341,
+                        "w": 341,
+                        "x": 779,
+                        "y": 263
+                      },
+                      {
+                        "h": 583,
+                        "w": 583,
+                        "x": 452,
+                        "y": 121
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1805437572300124160",
+                "indices": [
+                  145,
+                  168
+                ],
+                "media_key": "3_1805437572300124160",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkOM+gJF7AACgACGQ4z6UUW4DwAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGQ4z6AkXsAAKAAIZDjPpRRbgPAAA",
+                    "media_key": "3_1805437572300124160"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GQ4z6AkXsAAHlQ1.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 672,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 676
+                    },
+                    {
+                      "h": 1200,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 300
+                    },
+                    {
+                      "h": 1368,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 132
+                    },
+                    {
+                      "h": 1500,
+                      "w": 750,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1500,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1500,
+                  "width": 1200
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1500,
+                    "w": 1200
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/P3qw9Pv7bE"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  67,
+                  78
+                ],
+                "text": "StanleyCup"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "1805431024710529440",
+        "url": "https://x.com/MarkJCarney/status/1805431024710529440",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1805431024710529440",
+        "text": "Momentum building.  We know Bob can be beat.  #LetsGoOilers",
+        "source": "Twitter for iPhone",
+        "retweetCount": 2,
+        "replyCount": 12,
+        "likeCount": 15,
+        "quoteCount": 0,
+        "viewCount": 14311,
+        "createdAt": "Tue Jun 25 02:41:14 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1805431024710529440",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                46,
+                59
+              ],
+              "text": "LetsGoOilers"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1805430183048233410",
+          "url": "https://x.com/EdmontonOilers/status/1805430183048233410",
+          "twitterUrl": "https://twitter.com/EdmontonOilers/status/1805430183048233410",
+          "text": "Can we get a #LetsGoOilers in the chat ⤵️",
+          "source": "Twitter for iPhone",
+          "retweetCount": 134,
+          "replyCount": 777,
+          "likeCount": 1991,
+          "quoteCount": 69,
+          "viewCount": 490222,
+          "createdAt": "Tue Jun 25 02:37:53 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 20,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1805430183048233410",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "EdmontonOilers",
+            "url": "https://x.com/EdmontonOilers",
+            "twitterUrl": "https://twitter.com/EdmontonOilers",
+            "id": "15361389",
+            "name": "Edmonton Oilers",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1721774684491116544/6SoILkIp_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/15361389/1725404899",
+            "description": "",
+            "location": "Edmonton, Alberta",
+            "followers": 1010661,
+            "following": 258,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Wed Jul 09 02:45:44 +0000 2008",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 78846,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 59199,
+            "statusesCount": 155154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1905082874543645151"
+            ],
+            "profile_bio": {
+              "description": "Subscribe to https://t.co/jiWNntKxjP 📺 #LetsGoOilers",
+              "entities": {
+                "description": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        39,
+                        52
+                      ],
+                      "text": "LetsGoOilers"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "display_url": "OilersPlus.com",
+                      "expanded_url": "http://OilersPlus.com",
+                      "indices": [
+                        13,
+                        36
+                      ],
+                      "url": "https://t.co/jiWNntKxjP"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "EdmontonOilers.com",
+                      "expanded_url": "http://EdmontonOilers.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jUkLf9rlzL"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  13,
+                  26
+                ],
+                "text": "LetsGoOilers"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1805425779632681137",
+        "url": "https://x.com/MarkJCarney/status/1805425779632681137",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1805425779632681137",
+        "text": "RT @EdmontonOilers: BELIEVE\n\n📺 @Sportsnet\n📻 @630CHED\n\n#LetsGoOilers https://t.co/Z3sq96xGOl",
+        "source": "Twitter for iPhone",
+        "retweetCount": 176,
+        "replyCount": 193,
+        "likeCount": 1803,
+        "quoteCount": 45,
+        "viewCount": 207299,
+        "createdAt": "Tue Jun 25 02:20:23 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 13,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1805425779632681137",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/Z3sq96xGOl",
+              "expanded_url": "https://twitter.com/EdmontonOilers/status/1805423577136873846/photo/1",
+              "ext_alt_text": "Connor McDavid on the ice in the second period. ",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 264,
+                      "w": 264,
+                      "x": 1014,
+                      "y": 286
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 264,
+                      "w": 264,
+                      "x": 1014,
+                      "y": 286
+                    }
+                  ]
+                }
+              },
+              "id_str": "1805423497432514562",
+              "indices": [
+                68,
+                91
+              ],
+              "media_key": "3_1805423497432514562",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkOJxr5m8ACCgACGQ4pLldWsLEAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGQ4nGvmbwAIKAAIZDikuV1awsQAA",
+                  "media_key": "3_1805423497432514562"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GQ4nGvmbwAIgl7L.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 917,
+                    "w": 1638,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1638,
+                    "w": 1638,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1867,
+                    "w": 1638,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1638,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 1638
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "w": 1638
+                }
+              },
+              "source_status_id_str": "1805423577136873846",
+              "source_user_id_str": "15361389",
+              "type": "photo",
+              "url": "https://t.co/Z3sq96xGOl"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                54,
+                67
+              ],
+              "text": "LetsGoOilers"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "15361389",
+              "indices": [
+                3,
+                18
+              ],
+              "name": "Edmonton Oilers",
+              "screen_name": "EdmontonOilers"
+            },
+            {
+              "id_str": "21660529",
+              "indices": [
+                31,
+                41
+              ],
+              "name": "Sportsnet",
+              "screen_name": "Sportsnet"
+            },
+            {
+              "id_str": "1843911306736193536",
+              "indices": [
+                44,
+                52
+              ],
+              "name": "630CHED",
+              "screen_name": "630CHED"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1805423577136873846",
+          "url": "https://x.com/EdmontonOilers/status/1805423577136873846",
+          "twitterUrl": "https://twitter.com/EdmontonOilers/status/1805423577136873846",
+          "text": "BELIEVE\n\n📺 @Sportsnet\n📻 @630CHED\n\n#LetsGoOilers https://t.co/Z3sq96xGOl",
+          "source": "Twitter for iPhone",
+          "retweetCount": 176,
+          "replyCount": 193,
+          "likeCount": 1803,
+          "quoteCount": 45,
+          "viewCount": 207299,
+          "createdAt": "Tue Jun 25 02:11:38 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 13,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1805423577136873846",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "EdmontonOilers",
+            "url": "https://x.com/EdmontonOilers",
+            "twitterUrl": "https://twitter.com/EdmontonOilers",
+            "id": "15361389",
+            "name": "Edmonton Oilers",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1721774684491116544/6SoILkIp_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/15361389/1725404899",
+            "description": "",
+            "location": "Edmonton, Alberta",
+            "followers": 1010661,
+            "following": 258,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Wed Jul 09 02:45:44 +0000 2008",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 78846,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 59199,
+            "statusesCount": 155154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1905082874543645151"
+            ],
+            "profile_bio": {
+              "description": "Subscribe to https://t.co/jiWNntKxjP 📺 #LetsGoOilers",
+              "entities": {
+                "description": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        39,
+                        52
+                      ],
+                      "text": "LetsGoOilers"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "display_url": "OilersPlus.com",
+                      "expanded_url": "http://OilersPlus.com",
+                      "indices": [
+                        13,
+                        36
+                      ],
+                      "url": "https://t.co/jiWNntKxjP"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "EdmontonOilers.com",
+                      "expanded_url": "http://EdmontonOilers.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jUkLf9rlzL"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/Z3sq96xGOl",
+                "expanded_url": "https://twitter.com/EdmontonOilers/status/1805423577136873846/photo/1",
+                "ext_alt_text": "Connor McDavid on the ice in the second period. ",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 264,
+                        "w": 264,
+                        "x": 1014,
+                        "y": 286
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 264,
+                        "w": 264,
+                        "x": 1014,
+                        "y": 286
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1805423497432514562",
+                "indices": [
+                  48,
+                  71
+                ],
+                "media_key": "3_1805423497432514562",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkOJxr5m8ACCgACGQ4nLYhbwXYAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGQ4nGvmbwAIKAAIZDictiFvBdgAA",
+                    "media_key": "3_1805423497432514562"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GQ4nGvmbwAIgl7L.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 917,
+                      "w": 1638,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1638,
+                      "w": 1638,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1867,
+                      "w": 1638,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1024,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1638,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 2048,
+                  "width": 1638
+                },
+                "sizes": {
+                  "large": {
+                    "h": 2048,
+                    "w": 1638
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/Z3sq96xGOl"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  34,
+                  47
+                ],
+                "text": "LetsGoOilers"
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "21660529",
+                "indices": [
+                  11,
+                  21
+                ],
+                "name": "Sportsnet",
+                "screen_name": "Sportsnet"
+              },
+              {
+                "id_str": "1843911306736193536",
+                "indices": [
+                  24,
+                  32
+                ],
+                "name": "630CHED",
+                "screen_name": "630CHED"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "1805423815226273981",
+        "url": "https://x.com/MarkJCarney/status/1805423815226273981",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1805423815226273981",
+        "text": "RT @SportsnetSpec: Of course the Oilers are trailing after two. Their whole season has been like this.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 9,
+        "replyCount": 74,
+        "likeCount": 218,
+        "quoteCount": 4,
+        "viewCount": 71029,
+        "createdAt": "Tue Jun 25 02:12:35 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 3,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1805423815226273981",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "40278289",
+              "indices": [
+                3,
+                17
+              ],
+              "name": "Mark Spector🇨🇦🇺🇦",
+              "screen_name": "SportsnetSpec"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1805419937210503651",
+          "url": "https://x.com/SportsnetSpec/status/1805419937210503651",
+          "twitterUrl": "https://twitter.com/SportsnetSpec/status/1805419937210503651",
+          "text": "Of course the Oilers are trailing after two. Their whole season has been like this.",
+          "source": "Twitter for iPhone",
+          "retweetCount": 9,
+          "replyCount": 74,
+          "likeCount": 218,
+          "quoteCount": 4,
+          "viewCount": 71029,
+          "createdAt": "Tue Jun 25 01:57:10 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 3,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1805419937210503651",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "SportsnetSpec",
+            "url": "https://x.com/SportsnetSpec",
+            "twitterUrl": "https://twitter.com/SportsnetSpec",
+            "id": "40278289",
+            "name": "Mark Spector🇨🇦🇺🇦",
+            "isVerified": false,
+            "isBlueVerified": false,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1574157765119201280/YWJ805Oe_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/40278289/1645653372",
+            "description": "",
+            "location": "Edmonton, Alberta, Canada",
+            "followers": 98338,
+            "following": 2328,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Fri May 15 16:43:16 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 1215,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 172,
+            "statusesCount": 5229,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "Sr. columnist, https://t.co/Zjp5zYrRVl. Past President, Professional Hockey Writers' Association. Author of Battle of Alberta and Road to Gold. Skier of bumps.",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "Sportsnet.ca",
+                      "expanded_url": "http://Sportsnet.ca",
+                      "indices": [
+                        15,
+                        38
+                      ],
+                      "url": "https://t.co/Zjp5zYrRVl"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "sportsnet.ca",
+                      "expanded_url": "http://www.sportsnet.ca",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/MoJJC6OOPp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "1805399172906205503",
+        "url": "https://x.com/MarkJCarney/status/1805399172906205503",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1805399172906205503",
+        "text": "Yeah baby   That’s the way. \n#LetsGoOilers",
+        "source": "Twitter for iPhone",
+        "retweetCount": 3,
+        "replyCount": 9,
+        "likeCount": 75,
+        "quoteCount": 2,
+        "viewCount": 22740,
+        "createdAt": "Tue Jun 25 00:34:40 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 3,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1805399172906205503",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                29,
+                42
+              ],
+              "text": "LetsGoOilers"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1805398073021284843",
+          "url": "https://x.com/EdmontonOilers/status/1805398073021284843",
+          "twitterUrl": "https://twitter.com/EdmontonOilers/status/1805398073021284843",
+          "text": "Florida opens the scoring in Game 7. #LetsGoOilers",
+          "source": "Twitter for iPhone",
+          "retweetCount": 18,
+          "replyCount": 110,
+          "likeCount": 356,
+          "quoteCount": 13,
+          "viewCount": 102371,
+          "createdAt": "Tue Jun 25 00:30:17 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 11,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1805398073021284843",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "EdmontonOilers",
+            "url": "https://x.com/EdmontonOilers",
+            "twitterUrl": "https://twitter.com/EdmontonOilers",
+            "id": "15361389",
+            "name": "Edmonton Oilers",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1721774684491116544/6SoILkIp_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/15361389/1725404899",
+            "description": "",
+            "location": "Edmonton, Alberta",
+            "followers": 1010661,
+            "following": 258,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Wed Jul 09 02:45:44 +0000 2008",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 78846,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 59199,
+            "statusesCount": 155154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1905082874543645151"
+            ],
+            "profile_bio": {
+              "description": "Subscribe to https://t.co/jiWNntKxjP 📺 #LetsGoOilers",
+              "entities": {
+                "description": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        39,
+                        52
+                      ],
+                      "text": "LetsGoOilers"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "display_url": "OilersPlus.com",
+                      "expanded_url": "http://OilersPlus.com",
+                      "indices": [
+                        13,
+                        36
+                      ],
+                      "url": "https://t.co/jiWNntKxjP"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "EdmontonOilers.com",
+                      "expanded_url": "http://EdmontonOilers.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jUkLf9rlzL"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  37,
+                  50
+                ],
+                "text": "LetsGoOilers"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1804374200880169283",
+        "url": "https://x.com/MarkJCarney/status/1804374200880169283",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1804374200880169283",
+        "text": "Spectacular. \nAbsolutely relentless. \n\nTime to bring the Cup home where it belongs. \n#LetsGoOilers",
+        "source": "Twitter for iPhone",
+        "retweetCount": 19,
+        "replyCount": 66,
+        "likeCount": 295,
+        "quoteCount": 9,
+        "viewCount": 26533,
+        "createdAt": "Sat Jun 22 04:41:47 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1804374200880169283",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                85,
+                98
+              ],
+              "text": "LetsGoOilers"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1804347933434798175",
+          "url": "https://x.com/NHL/status/1804347933434798175",
+          "twitterUrl": "https://twitter.com/NHL/status/1804347933434798175",
+          "text": "THE EDMONTON OILERS HAVE FORCED A #GAME7!!!! 🤩 #StanleyCup https://t.co/VLikvbuQqV",
+          "source": "Twitter for iPhone",
+          "retweetCount": 2592,
+          "replyCount": 573,
+          "likeCount": 22731,
+          "quoteCount": 975,
+          "viewCount": 1517011,
+          "createdAt": "Sat Jun 22 02:57:25 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 172,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1804347933434798175",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "NHL",
+            "url": "https://x.com/NHL",
+            "twitterUrl": "https://twitter.com/NHL",
+            "id": "50004938",
+            "name": "NHL",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1896089560179695616/cbGWnIh5_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/50004938/1742964645",
+            "description": "",
+            "location": "32 cities across U.S. & Canada",
+            "followers": 7242072,
+            "following": 2134,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Tue Jun 23 15:24:18 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 6821,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 107055,
+            "statusesCount": 264142,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1904915052643123505"
+            ],
+            "profile_bio": {
+              "description": "Your home for hockey. \n\n🔄: @NHLGIFs\n🏆: @StanleyCup\n🗣️: @NHLPR\n📈: @NHLFantasy\n📺: @espn, @NHL_On_TNT, @SportsOnPrimeCA, @Sportsnet, @NHLNetwork",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        27,
+                        35
+                      ],
+                      "name": "",
+                      "screen_name": "NHLGIFs"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        39,
+                        50
+                      ],
+                      "name": "",
+                      "screen_name": "StanleyCup"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        55,
+                        61
+                      ],
+                      "name": "",
+                      "screen_name": "NHLPR"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        65,
+                        76
+                      ],
+                      "name": "",
+                      "screen_name": "NHLFantasy"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        80,
+                        85
+                      ],
+                      "name": "",
+                      "screen_name": "espn"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        87,
+                        98
+                      ],
+                      "name": "",
+                      "screen_name": "NHL_On_TNT"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        100,
+                        116
+                      ],
+                      "name": "",
+                      "screen_name": "SportsOnPrimeCA"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        118,
+                        128
+                      ],
+                      "name": "",
+                      "screen_name": "Sportsnet"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        130,
+                        141
+                      ],
+                      "name": "",
+                      "screen_name": "NHLNetwork"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "NHL.com/Vote",
+                      "expanded_url": "http://NHL.com/Vote",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/R4JhEVmk4j"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/VLikvbuQqV",
+                "expanded_url": "https://twitter.com/NHL/status/1804347933434798175/photo/1",
+                "ext_alt_text": "Final score: Oilers defeat Panthers 5-1. Series tied 3-3.",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 67,
+                        "w": 67,
+                        "x": 776,
+                        "y": 303
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 67,
+                        "w": 67,
+                        "x": 776,
+                        "y": 303
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1804347928649064448",
+                "indices": [
+                  59,
+                  82
+                ],
+                "media_key": "3_1804347928649064448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkKVOGaVuAACgACGQpU4reXYF8AAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGQpU4ZpW4AAKAAIZClTit5dgXwAA",
+                    "media_key": "3_1804347928649064448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GQpU4ZpW4AAsSSs.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 672,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 676
+                    },
+                    {
+                      "h": 1200,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 300
+                    },
+                    {
+                      "h": 1368,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 132
+                    },
+                    {
+                      "h": 1500,
+                      "w": 750,
+                      "x": 37,
+                      "y": 0
+                    },
+                    {
+                      "h": 1500,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1500,
+                  "width": 1200
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1500,
+                    "w": 1200
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/VLikvbuQqV"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  34,
+                  40
+                ],
+                "text": "GAME7"
+              },
+              {
+                "indices": [
+                  47,
+                  58
+                ],
+                "text": "StanleyCup"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1803904313212784684",
+        "url": "https://x.com/MarkJCarney/status/1803904313212784684",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1803904313212784684",
+        "text": "The crises of climate change and nature loss are global issues that need local action. \n\n@OttRiverkeeper is delivering education, research, and advocacy to ensure we pass on an even better and healthier river to the next generation.\n\nLet’s give to the riv! https://t.co/iZz8kZ79pT",
+        "source": "Twitter for iPhone",
+        "retweetCount": 17,
+        "replyCount": 113,
+        "likeCount": 95,
+        "quoteCount": 8,
+        "viewCount": 17718,
+        "createdAt": "Thu Jun 20 21:34:37 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 2,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1803904313212784684",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/iZz8kZ79pT",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1803904313212784684/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Ottawa Riverkeeper | Garde-rivière des Outaouais",
+                      "screen_name": "ottriverkeeper",
+                      "type": "user",
+                      "user_id": "29787052"
+                    },
+                    {
+                      "name": "Mona Fortier 🇨🇦",
+                      "screen_name": "MonaFortier",
+                      "type": "user",
+                      "user_id": "631988630"
+                    },
+                    {
+                      "name": "Ottawa Riverkeeper | Garde-rivière des Outaouais",
+                      "screen_name": "ottriverkeeper",
+                      "type": "user",
+                      "user_id": "29787052"
+                    },
+                    {
+                      "name": "Mona Fortier 🇨🇦",
+                      "screen_name": "MonaFortier",
+                      "type": "user",
+                      "user_id": "631988630"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 40,
+                      "w": 40,
+                      "x": 110,
+                      "y": 125
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 40,
+                      "w": 40,
+                      "x": 110,
+                      "y": 125
+                    }
+                  ]
+                }
+              },
+              "id_str": "1803904305927159809",
+              "indices": [
+                257,
+                280
+              ],
+              "media_key": "3_1803904305927159809",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkIwWijlgABCgACGQjBalXX0CwAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGQjBaKOWAAEKAAIZCMFqVdfQLAAA",
+                  "media_key": "3_1803904305927159809"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GQjBaKOWAAEQNjS.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 263,
+                    "w": 469,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 469,
+                    "w": 469,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 532,
+                    "w": 467,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 532,
+                    "w": 266,
+                    "x": 93,
+                    "y": 0
+                  },
+                  {
+                    "h": 532,
+                    "w": 469,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 532,
+                "width": 469
+              },
+              "sizes": {
+                "large": {
+                  "h": 532,
+                  "w": 469
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/iZz8kZ79pT"
+            },
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/iZz8kZ79pT",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1803904313212784684/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Ottawa Riverkeeper | Garde-rivière des Outaouais",
+                      "screen_name": "ottriverkeeper",
+                      "type": "user",
+                      "user_id": "29787052"
+                    },
+                    {
+                      "name": "Mona Fortier 🇨🇦",
+                      "screen_name": "MonaFortier",
+                      "type": "user",
+                      "user_id": "631988630"
+                    },
+                    {
+                      "name": "Ottawa Riverkeeper | Garde-rivière des Outaouais",
+                      "screen_name": "ottriverkeeper",
+                      "type": "user",
+                      "user_id": "29787052"
+                    },
+                    {
+                      "name": "Mona Fortier 🇨🇦",
+                      "screen_name": "MonaFortier",
+                      "type": "user",
+                      "user_id": "631988630"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 34,
+                      "w": 34,
+                      "x": 667,
+                      "y": 418
+                    },
+                    {
+                      "h": 58,
+                      "w": 58,
+                      "x": 501,
+                      "y": 265
+                    },
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 620,
+                      "y": 179
+                    },
+                    {
+                      "h": 103,
+                      "w": 103,
+                      "x": 322,
+                      "y": 561
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 34,
+                      "w": 34,
+                      "x": 667,
+                      "y": 418
+                    },
+                    {
+                      "h": 58,
+                      "w": 58,
+                      "x": 501,
+                      "y": 265
+                    },
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 620,
+                      "y": 179
+                    },
+                    {
+                      "h": 103,
+                      "w": 103,
+                      "x": 322,
+                      "y": 561
+                    }
+                  ]
+                }
+              },
+              "id_str": "1803904305918824448",
+              "indices": [
+                257,
+                280
+              ],
+              "media_key": "3_1803904305918824448",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkIwWijFtAACgACGQjBalXX0CwAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGQjBaKMW0AAKAAIZCMFqVdfQLAAA",
+                  "media_key": "3_1803904305918824448"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GQjBaKMW0AAP8nP.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 573,
+                    "w": 1024,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 768,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 674,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 384,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 1024,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 768,
+                "width": 1024
+              },
+              "sizes": {
+                "large": {
+                  "h": 768,
+                  "w": 1024
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/iZz8kZ79pT"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "29787052",
+              "indices": [
+                89,
+                104
+              ],
+              "name": "Ottawa Riverkeeper | Garde-rivière des Outaouais",
+              "screen_name": "ottriverkeeper"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1803518769425191412",
+          "url": "https://x.com/obj_news/status/1803518769425191412",
+          "twitterUrl": "https://twitter.com/obj_news/status/1803518769425191412",
+          "text": "It’s been just over a year since Ottawa Riverkeeper moved into its real catch of a location — the NCC River House.\n\nNow, the local non-profit is looking to fulfill its 15-year-old dream of having a space by the water for research, education and advocacy.\nhttps://t.co/BZVvYaciQB https://t.co/kFjte3fOkc",
+          "source": "Twitter for iPhone",
+          "retweetCount": 1,
+          "replyCount": 0,
+          "likeCount": 2,
+          "quoteCount": 1,
+          "viewCount": 18018,
+          "createdAt": "Wed Jun 19 20:02:37 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1803518769425191412",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "obj_news",
+            "url": "https://x.com/obj_news",
+            "twitterUrl": "https://twitter.com/obj_news",
+            "id": "22696285",
+            "name": "Ottawa Business Journal",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1443654965319421959/LK_DY_JX_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/22696285/1624973316",
+            "description": "",
+            "location": "Ottawa, Canada",
+            "followers": 18699,
+            "following": 613,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Tue Mar 03 23:03:07 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 727,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 8566,
+            "statusesCount": 29785,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "Deals, tech, real estate, city hall and more from Ottawa's voice of business news, Ottawa Business Journal",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "obj.ca",
+                      "expanded_url": "http://www.obj.ca",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/doPu3EtlC2"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/kFjte3fOkc",
+                "expanded_url": "https://twitter.com/obj_news/status/1803518769425191412/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 225,
+                        "w": 225,
+                        "x": 472,
+                        "y": 225
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 225,
+                        "w": 225,
+                        "x": 472,
+                        "y": 225
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1803518766489194497",
+                "indices": [
+                  279,
+                  302
+                ],
+                "media_key": "3_1803518766489194497",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkHYsM+VtABCgACGQdiw+1WkfQAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGQdiwz5W0AEKAAIZB2LD7VaR9AAA",
+                    "media_key": "3_1803518766489194497"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GQdiwz5W0AEHmzl.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 1075,
+                      "w": 1920,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1255,
+                      "w": 1255,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1255,
+                      "w": 1101,
+                      "x": 74,
+                      "y": 0
+                    },
+                    {
+                      "h": 1255,
+                      "w": 628,
+                      "x": 310,
+                      "y": 0
+                    },
+                    {
+                      "h": 1255,
+                      "w": 1920,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1255,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1255,
+                    "w": 1920
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/kFjte3fOkc"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "urls": [
+              {
+                "display_url": "obj.ca/ott-riverkeepe…",
+                "expanded_url": "https://obj.ca/ott-riverkeeper-major-fundraising-campaign-big-river-give/",
+                "indices": [
+                  255,
+                  278
+                ],
+                "url": "https://t.co/BZVvYaciQB"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1803262158207328463",
+        "url": "https://x.com/MarkJCarney/status/1803262158207328463",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1803262158207328463",
+        "text": "Skill, heart, grit and McDavid Magic. That’s how to drag them back to Alberta!!\n\n#LetsGoOilers",
+        "source": "Twitter for iPhone",
+        "retweetCount": 22,
+        "replyCount": 95,
+        "likeCount": 270,
+        "quoteCount": 4,
+        "viewCount": 22942,
+        "createdAt": "Wed Jun 19 03:02:56 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 4,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1803262158207328463",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                81,
+                94
+              ],
+              "text": "LetsGoOilers"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1803259956587635147",
+          "url": "https://x.com/NHL/status/1803259956587635147",
+          "twitterUrl": "https://twitter.com/NHL/status/1803259956587635147",
+          "text": "WE'RE HEADED BACK TO EDMONTON 🤯 \n\nTHE OILERS HAVE FORCED A GAME 6! #StanleyCup https://t.co/C5sOzGY4mg",
+          "source": "Twitter for iPhone",
+          "retweetCount": 1546,
+          "replyCount": 455,
+          "likeCount": 13273,
+          "quoteCount": 522,
+          "viewCount": 701869,
+          "createdAt": "Wed Jun 19 02:54:11 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 88,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1803259956587635147",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "NHL",
+            "url": "https://x.com/NHL",
+            "twitterUrl": "https://twitter.com/NHL",
+            "id": "50004938",
+            "name": "NHL",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1896089560179695616/cbGWnIh5_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/50004938/1742964645",
+            "description": "",
+            "location": "32 cities across U.S. & Canada",
+            "followers": 7242072,
+            "following": 2134,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Tue Jun 23 15:24:18 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 6821,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 107055,
+            "statusesCount": 264142,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1904915052643123505"
+            ],
+            "profile_bio": {
+              "description": "Your home for hockey. \n\n🔄: @NHLGIFs\n🏆: @StanleyCup\n🗣️: @NHLPR\n📈: @NHLFantasy\n📺: @espn, @NHL_On_TNT, @SportsOnPrimeCA, @Sportsnet, @NHLNetwork",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        27,
+                        35
+                      ],
+                      "name": "",
+                      "screen_name": "NHLGIFs"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        39,
+                        50
+                      ],
+                      "name": "",
+                      "screen_name": "StanleyCup"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        55,
+                        61
+                      ],
+                      "name": "",
+                      "screen_name": "NHLPR"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        65,
+                        76
+                      ],
+                      "name": "",
+                      "screen_name": "NHLFantasy"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        80,
+                        85
+                      ],
+                      "name": "",
+                      "screen_name": "espn"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        87,
+                        98
+                      ],
+                      "name": "",
+                      "screen_name": "NHL_On_TNT"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        100,
+                        116
+                      ],
+                      "name": "",
+                      "screen_name": "SportsOnPrimeCA"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        118,
+                        128
+                      ],
+                      "name": "",
+                      "screen_name": "Sportsnet"
+                    },
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        130,
+                        141
+                      ],
+                      "name": "",
+                      "screen_name": "NHLNetwork"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "NHL.com/Vote",
+                      "expanded_url": "http://NHL.com/Vote",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/R4JhEVmk4j"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/C5sOzGY4mg",
+                "expanded_url": "https://twitter.com/NHL/status/1803259956587635147/photo/1",
+                "ext_alt_text": "Final Score: Oilers defeat Panthers 5-3. Florida leads series 3-2.",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 96,
+                        "w": 96,
+                        "x": 726,
+                        "y": 36
+                      },
+                      {
+                        "h": 169,
+                        "w": 169,
+                        "x": 638,
+                        "y": 250
+                      },
+                      {
+                        "h": 202,
+                        "w": 202,
+                        "x": 87,
+                        "y": 190
+                      },
+                      {
+                        "h": 197,
+                        "w": 197,
+                        "x": 335,
+                        "y": 202
+                      },
+                      {
+                        "h": 210,
+                        "w": 210,
+                        "x": 877,
+                        "y": 114
+                      },
+                      {
+                        "h": 229,
+                        "w": 229,
+                        "x": 896,
+                        "y": 1097
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 96,
+                        "w": 96,
+                        "x": 726,
+                        "y": 36
+                      },
+                      {
+                        "h": 169,
+                        "w": 169,
+                        "x": 638,
+                        "y": 250
+                      },
+                      {
+                        "h": 202,
+                        "w": 202,
+                        "x": 87,
+                        "y": 190
+                      },
+                      {
+                        "h": 197,
+                        "w": 197,
+                        "x": 335,
+                        "y": 202
+                      },
+                      {
+                        "h": 210,
+                        "w": 210,
+                        "x": 877,
+                        "y": 114
+                      },
+                      {
+                        "h": 229,
+                        "w": 229,
+                        "x": 896,
+                        "y": 1097
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1803259953248923649",
+                "indices": [
+                  79,
+                  102
+                ],
+                "media_key": "3_1803259953248923649",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkGd1+XFvABCgACGQZ3YF4XocsAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGQZ3X5cW8AEKAAIZBndgXhehywAA",
+                    "media_key": "3_1803259953248923649"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GQZ3X5cW8AE2WuN.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 672,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 828
+                    },
+                    {
+                      "h": 1200,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 300
+                    },
+                    {
+                      "h": 1368,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 132
+                    },
+                    {
+                      "h": 1500,
+                      "w": 750,
+                      "x": 450,
+                      "y": 0
+                    },
+                    {
+                      "h": 1500,
+                      "w": 1200,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1500,
+                  "width": 1200
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1500,
+                    "w": 1200
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/C5sOzGY4mg"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  67,
+                  78
+                ],
+                "text": "StanleyCup"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1802821385028620707",
+        "url": "https://x.com/MarkJCarney/status/1802821385028620707",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1802821385028620707",
+        "text": "High-integrity voluntary carbon markets can accelerate clean energy investment, catalyse the transition from coal in Asia, promote reforestation &amp; support communities everywhere. But this is only possible if they’re built on solid foundations.  Here’s how.\nhttps://t.co/rCsi6XRUN1",
+        "source": "Twitter for iPhone",
+        "retweetCount": 27,
+        "replyCount": 174,
+        "likeCount": 88,
+        "quoteCount": 34,
+        "viewCount": 58649,
+        "createdAt": "Mon Jun 17 21:51:27 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 9,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1802821385028620707",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "height": 367,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=800x419",
+                  "width": 700
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=280x150",
+                  "width": 266
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "The prize is huge if we can agree on standards and get this right"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "www.ft.com"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=800x320_1",
+                  "width": 569
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "height": 394,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=orig",
+                  "width": 700
+                }
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribe_key": "publisher_id",
+                "user_value": {
+                  "id_str": "4898091"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "height": 367,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=800x419",
+                  "width": 700
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "height": 81,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=144x144",
+                  "width": 144
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 394,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=png&name=2048x2048_2_exp",
+                  "width": 700
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "height": 394,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=orig",
+                  "width": 700
+                }
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "ft.com"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 77.66,
+                      "rgb": {
+                        "blue": 37,
+                        "green": 48,
+                        "red": 32
+                      }
+                    },
+                    {
+                      "percentage": 14.7,
+                      "rgb": {
+                        "blue": 231,
+                        "green": 228,
+                        "red": 223
+                      }
+                    },
+                    {
+                      "percentage": 7.48,
+                      "rgb": {
+                        "blue": 113,
+                        "green": 121,
+                        "red": 121
+                      }
+                    },
+                    {
+                      "percentage": 0.8,
+                      "rgb": {
+                        "blue": 131,
+                        "green": 132,
+                        "red": 126
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "Stop debating carbon markets and start building them"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 77.66,
+                      "rgb": {
+                        "blue": 37,
+                        "green": 48,
+                        "red": 32
+                      }
+                    },
+                    {
+                      "percentage": 14.7,
+                      "rgb": {
+                        "blue": 231,
+                        "green": 228,
+                        "red": 223
+                      }
+                    },
+                    {
+                      "percentage": 7.48,
+                      "rgb": {
+                        "blue": 113,
+                        "green": 121,
+                        "red": 121
+                      }
+                    },
+                    {
+                      "percentage": 0.8,
+                      "rgb": {
+                        "blue": 131,
+                        "green": 132,
+                        "red": 126
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 394,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=png&name=2048x2048_2_exp",
+                  "width": 700
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 77.66,
+                      "rgb": {
+                        "blue": 37,
+                        "green": 48,
+                        "red": 32
+                      }
+                    },
+                    {
+                      "percentage": 14.7,
+                      "rgb": {
+                        "blue": 231,
+                        "green": 228,
+                        "red": 223
+                      }
+                    },
+                    {
+                      "percentage": 7.48,
+                      "rgb": {
+                        "blue": 113,
+                        "green": 121,
+                        "red": 121
+                      }
+                    },
+                    {
+                      "percentage": 0.8,
+                      "rgb": {
+                        "blue": 131,
+                        "green": 132,
+                        "red": 126
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "height": 394,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=png&name=2048x2048_2_exp",
+                  "width": 700
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/rCsi6XRUN1"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "height": 394,
+                  "url": "https://pbs.twimg.com/card_img/1904737730409472000/1tRMtzFA?format=jpg&name=orig",
+                  "width": 700
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/rCsi6XRUN1",
+          "user_refs_results": [
+            {
+              "rest_id": "4898091",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 87
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/931161479398686721/FI3te2Sw_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/4898091/1694438163"
+                },
+                "core": {
+                  "created_at": "Mon Apr 16 16:54:19 +0000 2007",
+                  "name": "Financial Times",
+                  "screen_name": "FinancialTimes"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "exclusive_tweet_following": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "London / New York / Hong Kong"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "notifications_settings": {},
+                "pinned_items": {},
+                "privacy": {},
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "This account is now closed.  For the best of FT journalism, including breaking news and analysis, follow @ft",
+                  "entities": {
+                    "description": {
+                      "user_mentions": [
+                        {
+                          "id_str": "0",
+                          "indices": [
+                            105,
+                            108
+                          ],
+                          "name": "",
+                          "screen_name": "ft"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "ft.com",
+                          "expanded_url": "https://www.ft.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/XKMxG94Z9c"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_image_shape": "Square",
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "9E2F50"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": true
+                },
+                "relationship_counts": {
+                  "followers": 7458883,
+                  "following": 1004
+                },
+                "relationship_perspectives": {},
+                "rest_id": "4898091",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 24326,
+                  "tweets": 336945
+                },
+                "website": {
+                  "url": "https://t.co/XKMxG94Z9c"
+                },
+                "verification": {
+                  "is_blue_verified": true,
+                  "verified_type": "Business"
+                }
+              }
+            }
+          ]
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ft.com/content/9db0da…",
+              "expanded_url": "https://www.ft.com/content/9db0dafe-73cf-4458-b086-534bad4ed8b1",
+              "indices": [
+                261,
+                284
+              ],
+              "url": "https://t.co/rCsi6XRUN1"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1802180952677818412",
+        "url": "https://x.com/MarkJCarney/status/1802180952677818412",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1802180952677818412",
+        "text": "8-1!! Great depth, great grit, never down, always on. Headed back to Fla. #LetsGoOilers",
+        "source": "Twitter for iPhone",
+        "retweetCount": 19,
+        "replyCount": 133,
+        "likeCount": 245,
+        "quoteCount": 6,
+        "viewCount": 33078,
+        "createdAt": "Sun Jun 16 03:26:36 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1802180952677818412",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                74,
+                87
+              ],
+              "text": "LetsGoOilers"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1802173315228041543",
+          "url": "https://x.com/EdmontonOilers/status/1802173315228041543",
+          "twitterUrl": "https://twitter.com/EdmontonOilers/status/1802173315228041543",
+          "text": "😤 THIS AIN'T OVER 😤\n\nThe #Oilers defeat the Panthers 8-1 in Game 4 of the Stanley Cup Final to send the series back to Florida. \n\n#LetsGoOilers https://t.co/RJCpHKatw8",
+          "source": "Twitter for iPhone",
+          "retweetCount": 1052,
+          "replyCount": 532,
+          "likeCount": 7120,
+          "quoteCount": 352,
+          "viewCount": 394308,
+          "createdAt": "Sun Jun 16 02:56:15 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 60,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1802173315228041543",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "EdmontonOilers",
+            "url": "https://x.com/EdmontonOilers",
+            "twitterUrl": "https://twitter.com/EdmontonOilers",
+            "id": "15361389",
+            "name": "Edmonton Oilers",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1721774684491116544/6SoILkIp_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/15361389/1725404899",
+            "description": "",
+            "location": "Edmonton, Alberta",
+            "followers": 1010661,
+            "following": 258,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Wed Jul 09 02:45:44 +0000 2008",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 78846,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 59199,
+            "statusesCount": 155154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1905082874543645151"
+            ],
+            "profile_bio": {
+              "description": "Subscribe to https://t.co/jiWNntKxjP 📺 #LetsGoOilers",
+              "entities": {
+                "description": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        39,
+                        52
+                      ],
+                      "text": "LetsGoOilers"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "display_url": "OilersPlus.com",
+                      "expanded_url": "http://OilersPlus.com",
+                      "indices": [
+                        13,
+                        36
+                      ],
+                      "url": "https://t.co/jiWNntKxjP"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "EdmontonOilers.com",
+                      "expanded_url": "http://EdmontonOilers.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jUkLf9rlzL"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/RJCpHKatw8",
+                "expanded_url": "https://twitter.com/EdmontonOilers/status/1802173315228041543/photo/1",
+                "ext_alt_text": "The Oilers celebrating a goal on the ice at Rogers Place. ",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 562,
+                        "y": 88
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 418,
+                        "y": 482
+                      },
+                      {
+                        "h": 74,
+                        "w": 74,
+                        "x": 1140,
+                        "y": 610
+                      },
+                      {
+                        "h": 72,
+                        "w": 72,
+                        "x": 936,
+                        "y": 922
+                      },
+                      {
+                        "h": 68,
+                        "w": 68,
+                        "x": 1116,
+                        "y": 1128
+                      },
+                      {
+                        "h": 78,
+                        "w": 78,
+                        "x": 4,
+                        "y": 778
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 562,
+                        "y": 88
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 418,
+                        "y": 482
+                      },
+                      {
+                        "h": 74,
+                        "w": 74,
+                        "x": 1140,
+                        "y": 610
+                      },
+                      {
+                        "h": 72,
+                        "w": 72,
+                        "x": 936,
+                        "y": 922
+                      },
+                      {
+                        "h": 68,
+                        "w": 68,
+                        "x": 1116,
+                        "y": 1128
+                      },
+                      {
+                        "h": 78,
+                        "w": 78,
+                        "x": 4,
+                        "y": 778
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1802172877795688448",
+                "indices": [
+                  144,
+                  167
+                ],
+                "media_key": "3_1802172877795688448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARkCmq8c2wAACgACGQKbFPXbAUcAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGQKarxzbAAAKAAIZApsU9dsBRwAA",
+                    "media_key": "3_1802172877795688448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GQKarxzbAAAQM8d.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 1147,
+                      "w": 2048,
+                      "x": 0,
+                      "y": 502
+                    },
+                    {
+                      "h": 2048,
+                      "w": 2048,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1796,
+                      "x": 252,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1024,
+                      "x": 1024,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 2048,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 2048,
+                  "width": 2048
+                },
+                "sizes": {
+                  "large": {
+                    "h": 2048,
+                    "w": 2048
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/RJCpHKatw8"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  25,
+                  32
+                ],
+                "text": "Oilers"
+              },
+              {
+                "indices": [
+                  130,
+                  143
+                ],
+                "text": "LetsGoOilers"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1801773682731147525",
+        "url": "https://x.com/MarkJCarney/status/1801773682731147525",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1801773682731147525",
+        "text": "RT @EurasiaGroup: “Canada is a middle power. If we’re not at the table, we’ll be on the menu,” said @MarkJCarney at this week's #USCanadaSu…",
+        "source": "Twitter for iPhone",
+        "retweetCount": 94,
+        "replyCount": 33,
+        "likeCount": 231,
+        "quoteCount": 37,
+        "viewCount": 89179,
+        "createdAt": "Sat Jun 15 00:28:15 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 80,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1801773682731147525",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44706837",
+              "indices": [
+                3,
+                16
+              ],
+              "name": "Eurasia Group",
+              "screen_name": "EurasiaGroup"
+            },
+            {
+              "id_str": "192272849",
+              "indices": [
+                100,
+                112
+              ],
+              "name": "Mark Carney",
+              "screen_name": "MarkJCarney"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": {
+          "type": "tweet",
+          "id": "1801706174062203114",
+          "url": "https://x.com/EurasiaGroup/status/1801706174062203114",
+          "twitterUrl": "https://twitter.com/EurasiaGroup/status/1801706174062203114",
+          "text": "“Canada is a middle power. If we’re not at the table, we’ll be on the menu,” said @MarkJCarney at this week's #USCanadaSummit. \n\n“Question is: being at the table, what’s our recipe?” https://t.co/RDqSI0n1pG",
+          "source": "Twitter for iPhone",
+          "retweetCount": 94,
+          "replyCount": 33,
+          "likeCount": 231,
+          "quoteCount": 37,
+          "viewCount": 89179,
+          "createdAt": "Fri Jun 14 20:00:00 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 80,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1801706174062203114",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "EurasiaGroup",
+            "url": "https://x.com/EurasiaGroup",
+            "twitterUrl": "https://twitter.com/EurasiaGroup",
+            "id": "44706837",
+            "name": "Eurasia Group",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1674897970003681280/uaUM_OFj_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/44706837/1739461808",
+            "description": "",
+            "location": "Global",
+            "followers": 173357,
+            "following": 2340,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Thu Jun 04 20:09:04 +0000 2009",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 5634,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 3751,
+            "statusesCount": 33714,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "The geopolitical risk firm that helps you understand the world. Founded by @ianbremmer. Putting politics first for 25 years.",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        75,
+                        86
+                      ],
+                      "name": "",
+                      "screen_name": "ianbremmer"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "eurasiagroup.net",
+                      "expanded_url": "http://www.eurasiagroup.net",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/HTbUIFQq1s"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additional_media_info": {
+                  "description": "",
+                  "monetizable": false,
+                  "title": "US-Canada Summit - Mark Carney"
+                },
+                "allow_download_status": {
+                  "allow_download": false
+                },
+                "display_url": "pic.twitter.com/RDqSI0n1pG",
+                "expanded_url": "https://twitter.com/EurasiaGroup/status/1801706174062203114/video/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "id_str": "1801698379463847936",
+                "indices": [
+                  183,
+                  206
+                ],
+                "media_key": "13_1801698379463847936",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARkA6yFcVvAAAAA=",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAAECgABGQDrIVxW8AAAAA==",
+                    "media_key": "13_1801698379463847936"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GQDsYUCX0AEV0d4.jpg",
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "w": 1920
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/RDqSI0n1pG",
+                "video_info": {
+                  "aspect_ratio": [
+                    16,
+                    9
+                  ],
+                  "duration_millis": 781714,
+                  "variants": [
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/1801698379463847936/pl/U7yWcshgWcJkQdNA.m3u8?tag=14&v=85c"
+                    },
+                    {
+                      "bitrate": 288000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1801698379463847936/vid/avc1/480x270/nRlVxNytWRhAsX1G.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1801698379463847936/vid/avc1/640x360/s9IezMgQtUGu4Psx.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1801698379463847936/vid/avc1/1280x720/QtjnrxLM_wBbVAQq.mp4?tag=14"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  110,
+                  125
+                ],
+                "text": "USCanadaSummit"
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "192272849",
+                "indices": [
+                  82,
+                  94
+                ],
+                "name": "Mark Carney",
+                "screen_name": "MarkJCarney"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "type": "tweet",
+        "id": "1801404312771232056",
+        "url": "https://x.com/MarkJCarney/status/1801404312771232056",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1801404312771232056",
+        "text": "Festival Country de Val-des-Monts. If you can’t be in YEG, the next best warm up for a big night in the Stanley Cup finals.\n\n#LetsGoOilers! https://t.co/ifrqzqdJks",
+        "source": "Twitter for iPhone",
+        "retweetCount": 25,
+        "replyCount": 422,
+        "likeCount": 365,
+        "quoteCount": 116,
+        "viewCount": 260180,
+        "createdAt": "Fri Jun 14 00:00:31 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 17,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1801404312771232056",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/ifrqzqdJks",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1801404312771232056/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Edmonton Oilers",
+                      "screen_name": "EdmontonOilers",
+                      "type": "user",
+                      "user_id": "15361389"
+                    },
+                    {
+                      "name": "NHL",
+                      "screen_name": "NHL",
+                      "type": "user",
+                      "user_id": "50004938"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 156,
+                      "w": 156,
+                      "x": 612,
+                      "y": 298
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 156,
+                      "w": 156,
+                      "x": 612,
+                      "y": 298
+                    }
+                  ]
+                }
+              },
+              "id_str": "1801404305175384065",
+              "indices": [
+                140,
+                163
+              ],
+              "media_key": "3_1801404305175384065",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARj/36va1pABCgACGP/frZ+WATgAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGP/fq9rWkAEKAAIY/9+tn5YBOAAA",
+                  "media_key": "3_1801404305175384065"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GP_fq9rWkAEbVGs.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 663,
+                    "w": 1184,
+                    "x": 0,
+                    "y": 371
+                  },
+                  {
+                    "h": 1034,
+                    "w": 1034,
+                    "x": 150,
+                    "y": 0
+                  },
+                  {
+                    "h": 1034,
+                    "w": 907,
+                    "x": 227,
+                    "y": 0
+                  },
+                  {
+                    "h": 1034,
+                    "w": 517,
+                    "x": 422,
+                    "y": 0
+                  },
+                  {
+                    "h": 1034,
+                    "w": 1184,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1034,
+                "width": 1184
+              },
+              "sizes": {
+                "large": {
+                  "h": 1034,
+                  "w": 1184
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/ifrqzqdJks"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                125,
+                138
+              ],
+              "text": "LetsGoOilers"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1801403805377994852",
+        "url": "https://x.com/MarkJCarney/status/1801403805377994852",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1801403805377994852",
+        "text": "Le Festival Country de Val-des-Monts. Si vous ne pouvez pas être à YEG, c'est le meilleur moyen de se préparer pour une grande soirée de la finale de la Coupe Stanley.\n\n#Oilers 🏒 https://t.co/LODkxmFBJN",
+        "source": "Twitter for iPhone",
+        "retweetCount": 7,
+        "replyCount": 21,
+        "likeCount": 79,
+        "quoteCount": 6,
+        "viewCount": 17586,
+        "createdAt": "Thu Jun 13 23:58:30 +0000 2024",
+        "lang": "fr",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1801403805377994852",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.twitter.com/LODkxmFBJN",
+              "expanded_url": "https://twitter.com/MarkJCarney/status/1801403805377994852/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Edmonton Oilers",
+                      "screen_name": "EdmontonOilers",
+                      "type": "user",
+                      "user_id": "15361389"
+                    },
+                    {
+                      "name": "NHL",
+                      "screen_name": "NHL",
+                      "type": "user",
+                      "user_id": "50004938"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "h": 156,
+                      "w": 156,
+                      "x": 612,
+                      "y": 298
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 156,
+                      "w": 156,
+                      "x": 612,
+                      "y": 298
+                    }
+                  ]
+                }
+              },
+              "id_str": "1801403800026013696",
+              "indices": [
+                179,
+                202
+              ],
+              "media_key": "3_1801403800026013696",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARj/3zY9luAACgACGP/fN3yXoGQAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGP/fNj2W4AAKAAIY/983fJegZAAA",
+                  "media_key": "3_1801403800026013696"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GP_fNj2W4AAANTR.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 663,
+                    "w": 1184,
+                    "x": 0,
+                    "y": 371
+                  },
+                  {
+                    "h": 1034,
+                    "w": 1034,
+                    "x": 150,
+                    "y": 0
+                  },
+                  {
+                    "h": 1034,
+                    "w": 907,
+                    "x": 227,
+                    "y": 0
+                  },
+                  {
+                    "h": 1034,
+                    "w": 517,
+                    "x": 422,
+                    "y": 0
+                  },
+                  {
+                    "h": 1034,
+                    "w": 1184,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1034,
+                "width": 1184
+              },
+              "sizes": {
+                "large": {
+                  "h": 1034,
+                  "w": 1184
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/LODkxmFBJN"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                169,
+                176
+              ],
+              "text": "Oilers"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1798445513257136525",
+        "url": "https://x.com/MarkJCarney/status/1798445513257136525",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1798445513257136525",
+        "text": ". @AntonioGuterres has sent a clear message\n\nWe need credible carbon markets to unleash the climate finance the world needs\n\nThese will require supply, demand, market and social integrity building on the new US principles + @ic_vcm and @wearevcmi standards to get emissions down",
+        "source": "Twitter for iPhone",
+        "retweetCount": 33,
+        "replyCount": 443,
+        "likeCount": 118,
+        "quoteCount": 41,
+        "viewCount": 40241,
+        "createdAt": "Wed Jun 05 20:03:18 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 6,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1798445513257136525",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "811229675758505984",
+              "indices": [
+                2,
+                18
+              ],
+              "name": "António Guterres",
+              "screen_name": "antonioguterres"
+            },
+            {
+              "id_str": "1501880756536291328",
+              "indices": [
+                224,
+                231
+              ],
+              "name": "ICVCM (inactive)",
+              "screen_name": "ic_vcm"
+            },
+            {
+              "id_str": "1405115661119070210",
+              "indices": [
+                236,
+                246
+              ],
+              "name": "VCMI",
+              "screen_name": "wearevcmi"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1798355094293168242",
+          "url": "https://x.com/UN/status/1798355094293168242",
+          "twitterUrl": "https://twitter.com/UN/status/1798355094293168242",
+          "text": "Watch LIVE as @antonioguterres outlines the urgent #ClimateAction steps that must be taken NOW to protect our planet and our future. ⬇️\n\nhttps://t.co/mCaqCR9CBK",
+          "source": "Twitter for iPhone",
+          "retweetCount": 215,
+          "replyCount": 107,
+          "likeCount": 411,
+          "quoteCount": 42,
+          "viewCount": 156826,
+          "createdAt": "Wed Jun 05 14:04:00 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 26,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1798355094293168242",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "UN",
+            "url": "https://x.com/UN",
+            "twitterUrl": "https://twitter.com/UN",
+            "id": "14159148",
+            "name": "United Nations",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1323749922005524485/LjJsuyU4_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/14159148/1607000252",
+            "description": "",
+            "location": "New York, NY",
+            "followers": 16471067,
+            "following": 1162,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Mar 16 20:15:36 +0000 2008",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 1758,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 28390,
+            "statusesCount": 100026,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1841123718212284495"
+            ],
+            "profile_bio": {
+              "description": "Official account of the United Nations. \nFor peace, dignity & equality on a healthy planet.",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "un.org",
+                      "expanded_url": "http://www.un.org",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/kgJqUNDMpy"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  51,
+                  65
+                ],
+                "text": "ClimateAction"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/broadcasts/1…",
+                "expanded_url": "https://x.com/i/broadcasts/1YqJDgqMkjYGV",
+                "indices": [
+                  137,
+                  160
+                ],
+                "url": "https://t.co/mCaqCR9CBK"
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "811229675758505984",
+                "indices": [
+                  14,
+                  30
+                ],
+                "name": "António Guterres",
+                "screen_name": "antonioguterres"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      },
+      {
+        "type": "tweet",
+        "id": "1797601087819837802",
+        "url": "https://x.com/MarkJCarney/status/1797601087819837802",
+        "twitterUrl": "https://twitter.com/MarkJCarney/status/1797601087819837802",
+        "text": "Best in the west, and now Canada’s team. \n\nTime to bring the Cup home where it belongs.\n\n#LetsGoOilers",
+        "source": "Twitter for iPhone",
+        "retweetCount": 33,
+        "replyCount": 128,
+        "likeCount": 350,
+        "quoteCount": 9,
+        "viewCount": 38352,
+        "createdAt": "Mon Jun 03 12:07:51 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1797601087819837802",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MarkJCarney",
+          "url": "https://x.com/MarkJCarney",
+          "twitterUrl": "https://twitter.com/MarkJCarney",
+          "id": "192272849",
+          "name": "Mark Carney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/192272849/1741564654",
+          "description": "",
+          "location": "Ottawa, Canada",
+          "followers": 331545,
+          "following": 674,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Sat Sep 18 17:26:00 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 564,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 616,
+          "statusesCount": 1530,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1898878068313260241"
+          ],
+          "profile_bio": {
+            "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "markcarney.ca",
+                    "expanded_url": "http://markcarney.ca",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wN083ppBrC"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                89,
+                102
+              ],
+              "text": "LetsGoOilers"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1797457679885242835",
+          "url": "https://x.com/EdmontonOilers/status/1797457679885242835",
+          "twitterUrl": "https://twitter.com/EdmontonOilers/status/1797457679885242835",
+          "text": "🤠 BEST IN THE WEST 🤠\n\nThe #Oilers defeat the Stars 2-1 in Game 6 of the Western Conference Final to advance to the Stanley Cup Final.\n\n#LetsGoOilers https://t.co/KuMyN8FbMC",
+          "source": "Twitter for iPhone",
+          "retweetCount": 2270,
+          "replyCount": 490,
+          "likeCount": 10323,
+          "quoteCount": 561,
+          "viewCount": 797349,
+          "createdAt": "Mon Jun 03 02:38:00 +0000 2024",
+          "lang": "en",
+          "bookmarkCount": 101,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1797457679885242835",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "EdmontonOilers",
+            "url": "https://x.com/EdmontonOilers",
+            "twitterUrl": "https://twitter.com/EdmontonOilers",
+            "id": "15361389",
+            "name": "Edmonton Oilers",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1721774684491116544/6SoILkIp_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/15361389/1725404899",
+            "description": "",
+            "location": "Edmonton, Alberta",
+            "followers": 1010661,
+            "following": 258,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Wed Jul 09 02:45:44 +0000 2008",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 78846,
+            "hasCustomTimelines": true,
+            "isTranslator": true,
+            "mediaCount": 59199,
+            "statusesCount": 155154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1905082874543645151"
+            ],
+            "profile_bio": {
+              "description": "Subscribe to https://t.co/jiWNntKxjP 📺 #LetsGoOilers",
+              "entities": {
+                "description": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        39,
+                        52
+                      ],
+                      "text": "LetsGoOilers"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "display_url": "OilersPlus.com",
+                      "expanded_url": "http://OilersPlus.com",
+                      "indices": [
+                        13,
+                        36
+                      ],
+                      "url": "https://t.co/jiWNntKxjP"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "EdmontonOilers.com",
+                      "expanded_url": "http://EdmontonOilers.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jUkLf9rlzL"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/KuMyN8FbMC",
+                "expanded_url": "https://twitter.com/EdmontonOilers/status/1797457679885242835/photo/1",
+                "ext_alt_text": "The Oilers celebrating a goal in Game 6 on the ice at Rogers Place. ",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {},
+                  "orig": {}
+                },
+                "id_str": "1797456280224972800",
+                "indices": [
+                  149,
+                  172
+                ],
+                "media_key": "3_1797456280224972800",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARjx2PaqGsAACgACGPHaPIxbkdMAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGPHY9qoawAAKAAIY8do8jFuR0wAA",
+                    "media_key": "3_1797456280224972800"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GPHY9qoawAAYao9.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 917,
+                      "w": 1638,
+                      "x": 0,
+                      "y": 616
+                    },
+                    {
+                      "h": 1638,
+                      "w": 1638,
+                      "x": 0,
+                      "y": 255
+                    },
+                    {
+                      "h": 1867,
+                      "w": 1638,
+                      "x": 0,
+                      "y": 141
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1024,
+                      "x": 153,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1638,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 2048,
+                  "width": 1638
+                },
+                "sizes": {
+                  "large": {
+                    "h": 2048,
+                    "w": 1638
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/KuMyN8FbMC"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  26,
+                  33
+                ],
+                "text": "Oilers"
+              },
+              {
+                "indices": [
+                  135,
+                  148
+                ],
+                "text": "LetsGoOilers"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "retweeted_tweet": null
+      }
+    ]
+  },
+  "has_next_page": true,
+  "next_cursor": "DAABCgABGnBDrGE__IEKAAIY6yujZ5qRwQgAAwAAAAIAAA"
+}

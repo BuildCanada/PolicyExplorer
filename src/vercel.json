@@ -1,0 +1,12 @@
+{
+    "framework": "nextjs",
+    "installCommand": "npm install --no-save",
+    "buildCommand": "npm run build",
+    "outputDirectory": ".next",
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/$1"
+      }
+    ]
+  }
