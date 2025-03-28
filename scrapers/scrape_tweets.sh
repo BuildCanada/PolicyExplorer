@@ -8,7 +8,7 @@ fi
 USERNAME="$1"
 USER_ID="$2"
 RESUME_PAGE="$3"
-API_KEY="b771c55bd6be40018f0c0ff583d3b691"
+TWITTER_API_KEY=$TWITTER_API_KEY
 BASE_URL="https://api.twitterapi.io/twitter/user/last_tweets"
 CURSOR=""
 
